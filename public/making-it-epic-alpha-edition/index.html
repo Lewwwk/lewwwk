@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Making it Epic (alpha edition) | Lewwwk</title>
+<meta name="keywords" content="alpha, epic, Matt Mullenweg">
+<meta name="description" content=":::: entry-content
+
+
+&ldquo;If you&rsquo;re not embarrassed when you ship your first version you waited too long.&rdquo; ~ Matt Mullenweg
+
+On Tuesday evening, James, Alan, and I linked arms, cringed a bit, and hit send. The first batch of invites to the Epic.io private alpha were out.
+Already we&rsquo;re learning a lot. As &rsquo;embarrassing&rsquo; as some of the things we see are, what we&rsquo;re gaining from real-world usage is worth it. Feedback has been real and is helping us prioritize what needs attention most.">
+<meta name="author" content="Michael Lewkowitz">
+<link rel="canonical" href="https://lewwwk.com/making-it-epic-alpha-edition/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.343cc480b9ffc8f04ccbe5e968ad674880cab773ec19905e93033065c1e7a804.css" integrity="sha256-NDzEgLn/yPBMy&#43;XpaK1nSIDKt3PsGZBekwMwZcHnqAQ=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://lewwwk.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://lewwwk.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://lewwwk.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://lewwwk.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://lewwwk.com/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="https://lewwwk.com/making-it-epic-alpha-edition/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+        @media (prefers-color-scheme: light) {
+            .list::-webkit-scrollbar-thumb {
+                border-color: var(--code-bg);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script><meta property="og:url" content="https://lewwwk.com/making-it-epic-alpha-edition/">
+  <meta property="og:site_name" content="Lewwwk">
+  <meta property="og:title" content="Making it Epic (alpha edition)">
+  <meta property="og:description" content=":::: entry-content “If you’re not embarrassed when you ship your first version you waited too long.” ~ Matt Mullenweg
+On Tuesday evening, James, Alan, and I linked arms, cringed a bit, and hit send. The first batch of invites to the Epic.io private alpha were out.
+Already we’re learning a lot. As ’embarrassing’ as some of the things we see are, what we’re gaining from real-world usage is worth it. Feedback has been real and is helping us prioritize what needs attention most.">
+  <meta property="og:locale" content="en-us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2010-12-10T16:28:09+00:00">
+    <meta property="article:modified_time" content="2010-12-10T16:28:09+00:00">
+    <meta property="article:tag" content="Alpha">
+    <meta property="article:tag" content="Epic">
+    <meta property="article:tag" content="Matt Mullenweg">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Making it Epic (alpha edition)">
+<meta name="twitter:description" content=":::: entry-content
+
+
+&ldquo;If you&rsquo;re not embarrassed when you ship your first version you waited too long.&rdquo; ~ Matt Mullenweg
+
+On Tuesday evening, James, Alan, and I linked arms, cringed a bit, and hit send. The first batch of invites to the Epic.io private alpha were out.
+Already we&rsquo;re learning a lot. As &rsquo;embarrassing&rsquo; as some of the things we see are, what we&rsquo;re gaining from real-world usage is worth it. Feedback has been real and is helping us prioritize what needs attention most.">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "https://lewwwk.com/posts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Making it Epic (alpha edition)",
+      "item": "https://lewwwk.com/making-it-epic-alpha-edition/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Making it Epic (alpha edition)",
+  "name": "Making it Epic (alpha edition)",
+  "description": ":::: entry-content \u0026ldquo;If you\u0026rsquo;re not embarrassed when you ship your first version you waited too long.\u0026rdquo; ~ Matt Mullenweg\nOn Tuesday evening, James, Alan, and I linked arms, cringed a bit, and hit send. The first batch of invites to the Epic.io private alpha were out.\nAlready we\u0026rsquo;re learning a lot. As \u0026rsquo;embarrassing\u0026rsquo; as some of the things we see are, what we\u0026rsquo;re gaining from real-world usage is worth it. Feedback has been real and is helping us prioritize what needs attention most.\n",
+  "keywords": [
+    "alpha", "epic", "Matt Mullenweg"
+  ],
+  "articleBody": ":::: entry-content “If you’re not embarrassed when you ship your first version you waited too long.” ~ Matt Mullenweg\nOn Tuesday evening, James, Alan, and I linked arms, cringed a bit, and hit send. The first batch of invites to the Epic.io private alpha were out.\nAlready we’re learning a lot. As ’embarrassing’ as some of the things we see are, what we’re gaining from real-world usage is worth it. Feedback has been real and is helping us prioritize what needs attention most.\nAt the same time, the gulf between what we are tackling and what we are showing is huge. The messaging of Epic.io is, well, pretty epic. It’s big and bold and ambitious. It’s risky too. Is it setting the expectations too high? Does it create too much dissonance between the promise and the user experience? Maybe.\nBut I’d rather be bold and be out there. Vulnerable in our ambition. Inviting in our mission.\nPurpose is at the heart of all initiative, organization, and systems. If we succeed in making purpose the platform we succeed in making that reality actionable and useful to people every day. And that should bring less noise, more meaning, and ultimately, fulfilment of what matters to each of us in our work and in our lives.\nLife is too short for bullshit. We don’t know where this will go, but we do know why we’re doing it. So if that resonates why not signup, see what it means for you, and tell us how it can make purpose the platform.\nLet’s make it epic!\n::: {.zemanta-pixie style=“margin-top: 10px; height: 15px;”} {.zemanta-pixie-img decoding=“async” style=“border: none; float: right;”}{.zemanta-pixie-a} ::: ::::\n",
+  "wordCount" : "275",
+  "inLanguage": "en",
+  "datePublished": "2010-12-10T16:28:09Z",
+  "dateModified": "2010-12-10T16:28:09Z",
+  "author":{
+    "@type": "Person",
+    "name": "Michael Lewkowitz"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://lewwwk.com/making-it-epic-alpha-edition/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Lewwwk",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://lewwwk.com/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+<body id="top">
+    <header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://lewwwk.com/" accesskey="h" title="Lewwwk (Alt + H)">Lewwwk</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://lewwwk.com/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://lewwwk.com/posts/" title="Archive">
+                    <span>Archive</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://lewwwk.com/tags/" title="Tags">
+                    <span>Tags</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Making it Epic (alpha edition)
+    </h1>
+    <div class="post-meta"><span title='2010-12-10 16:28:09 +0000 UTC'>December 10, 2010</span>&nbsp;·&nbsp;<span>2 min</span>&nbsp;·&nbsp;<span>Michael Lewkowitz</span>
+
+</div>
+  </header> 
+  <div class="post-content"><p>:::: entry-content
+<a href="/images/square-id-v1-rgk2iu.png"><img loading="lazy" src="/images/square-id-v1-rgk2iu.png"></a></p>
+<blockquote>
+<p>&ldquo;If you&rsquo;re not embarrassed when you ship your first version you waited too long.&rdquo; ~ <a href="http://ma.tt/2010/11/one-point-oh/">Matt Mullenweg</a></p>
+</blockquote>
+<p>On Tuesday evening, <a href="http://walkah.net">James</a>, <a href="http://twitter.com/thinksmith">Alan</a>, and I linked arms, cringed a bit, and hit send. The first batch of invites to the <a href="http://epic.io">Epic.io</a> private alpha were out.</p>
+<p>Already we&rsquo;re learning a lot. As &rsquo;embarrassing&rsquo; as some of the things we see are, what we&rsquo;re gaining from real-world usage is worth it. Feedback has been real and is helping us prioritize what needs attention most.</p>
+<p>At the same time, the gulf between what we are tackling and what we are showing is huge. The messaging of Epic.io is, well, pretty <a href="http://en.wiktionary.org/wiki/epic">epic</a>. It&rsquo;s big and bold and ambitious. It&rsquo;s risky too. Is it setting the expectations too high? Does it create too much dissonance between the promise and the user experience? Maybe.</p>
+<p>But I&rsquo;d rather be bold and be out there. Vulnerable in our ambition. Inviting in our mission.</p>
+<p>Purpose is at the heart of all initiative, organization, and systems. If we succeed in making purpose the platform we  succeed in making that reality actionable and useful to people every day. And that should bring less noise, more meaning, and ultimately, fulfilment of what matters to each of us in our work and in our lives.</p>
+<p>Life is too short for bullshit. We don&rsquo;t know where this will go, but we do know why we&rsquo;re doing it. So if that resonates why not <a href="http://epic.io/#">signup</a>, see what it means for you, and <a href="http://feedback.epic.io">tell us</a> how it can make purpose the platform.</p>
+<p>Let&rsquo;s <a href="http://epic.io">make it epic</a>!</p>
+<p>::: {.zemanta-pixie style=&ldquo;margin-top: 10px; height: 15px;&rdquo;}
+<a href="http://www.zemanta.com/" title="Enhanced by Zemanta"><img alt="Enhanced by Zemanta" loading="lazy" src="http://img.zemanta.com/zemified_a.png?x-id=f3a9f98a-ae25-4eaa-8b39-0ed598e572b8">{.zemanta-pixie-img decoding=&ldquo;async&rdquo; style=&ldquo;border: none; float: right;&rdquo;}</a>{.zemanta-pixie-a}
+:::
+::::</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://lewwwk.com/tags/alpha/">Alpha</a></li>
+      <li><a href="https://lewwwk.com/tags/epic/">Epic</a></li>
+      <li><a href="https://lewwwk.com/tags/matt-mullenweg/">Matt Mullenweg</a></li>
+    </ul>
+<nav class="paginav">
+  <a class="prev" href="https://lewwwk.com/you-are-a/">
+    <span class="title">« Prev</span>
+    <br>
+    <span>You are a…</span>
+  </a>
+  <a class="next" href="https://lewwwk.com/more-pirate/">
+    <span class="title">Next »</span>
+    <br>
+    <span>More pirate!</span>
+  </a>
+</nav>
+
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="https://lewwwk.com/">Lewwwk</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>

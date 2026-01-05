@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Alpha on Lewwwk</title>
+    <link>https://lewwwk.com/tags/alpha/</link>
+    <description>Recent content in Alpha on Lewwwk</description>
+    <generator>Hugo -- 0.154.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Dec 2010 16:28:09 +0000</lastBuildDate>
+    <atom:link href="https://lewwwk.com/tags/alpha/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making it Epic (alpha edition)</title>
+      <link>https://lewwwk.com/making-it-epic-alpha-edition/</link>
+      <pubDate>Fri, 10 Dec 2010 16:28:09 +0000</pubDate>
+      <guid>https://lewwwk.com/making-it-epic-alpha-edition/</guid>
+      <description>&lt;p&gt;:::: entry-content
+&lt;a href=&#34;https://lewwwk.com/images/square-id-v1-rgk2iu.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://lewwwk.com/images/square-id-v1-rgk2iu.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;If you&amp;rsquo;re not embarrassed when you ship your first version you waited too long.&amp;rdquo; ~ &lt;a href=&#34;http://ma.tt/2010/11/one-point-oh/&#34;&gt;Matt Mullenweg&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;On Tuesday evening, &lt;a href=&#34;http://walkah.net&#34;&gt;James&lt;/a&gt;, &lt;a href=&#34;http://twitter.com/thinksmith&#34;&gt;Alan&lt;/a&gt;, and I linked arms, cringed a bit, and hit send. The first batch of invites to the &lt;a href=&#34;http://epic.io&#34;&gt;Epic.io&lt;/a&gt; private alpha were out.&lt;/p&gt;
+&lt;p&gt;Already we&amp;rsquo;re learning a lot. As &amp;rsquo;embarrassing&amp;rsquo; as some of the things we see are, what we&amp;rsquo;re gaining from real-world usage is worth it. Feedback has been real and is helping us prioritize what needs attention most.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Alpha, Beta… Public</title>
+      <link>https://lewwwk.com/alpha-beta-public/</link>
+      <pubDate>Tue, 17 Mar 2009 14:20:37 +0000</pubDate>
+      <guid>https://lewwwk.com/alpha-beta-public/</guid>
+      <description>&lt;p&gt;:::: entry-content
+In this world where web apps can be built, launched and iterated quickly we&amp;rsquo;re seeing more and more of the &lt;a href=&#34;http://en.wikipedia.org/wiki/Perpetual_beta&#34; title=&#34;Perpetual beta&#34;&gt;perpetual beta&lt;/a&gt;{.zem_slink rel=&amp;ldquo;wikipedia&amp;rdquo;}. Even most of googles apps carry the &amp;lsquo;beta&amp;rsquo; tag long past when my usage experience seems to be bug free.&lt;/p&gt;
+&lt;p&gt;One side of me says, forget the distinction&amp;hellip; of course it&amp;rsquo;s always beta&amp;hellip; if it&amp;rsquo;s not it&amp;rsquo;s not evolving. Another side, says it&amp;rsquo;s about managing expectations, as in &amp;ldquo;Don&amp;rsquo;t throw things at your computer (or me) if this doesn&amp;rsquo;t work as you want it to.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

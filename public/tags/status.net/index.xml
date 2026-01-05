@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Status.net on Lewwwk</title>
+    <link>https://lewwwk.com/tags/status.net/</link>
+    <description>Recent content in Status.net on Lewwwk</description>
+    <generator>Hugo -- 0.154.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jan 2010 16:45:10 +0000</lastBuildDate>
+    <atom:link href="https://lewwwk.com/tags/status.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenMicroBlogging amps up the medium of change.</title>
+      <link>https://lewwwk.com/openmicroblogging-amps-up-the-medium-of-change./</link>
+      <pubDate>Tue, 05 Jan 2010 16:45:10 +0000</pubDate>
+      <guid>https://lewwwk.com/openmicroblogging-amps-up-the-medium-of-change./</guid>
+      <description>&lt;p&gt;:::::: entry-content
+&lt;img loading=&#34;lazy&#34; src=&#34;http://farm5.static.flickr.com/4043/4246063782_5ee2e9a364.jpg&#34;&gt;{.alignleft decoding=&amp;ldquo;async&amp;rdquo; height=&amp;ldquo;245&amp;rdquo; width=&amp;ldquo;163&amp;rdquo;}&lt;/p&gt;
+&lt;p&gt;December 18th was the first ever &lt;a href=&#34;http://statuscamp.org&#34;&gt;StatusCamp&lt;/a&gt;. It was also another &lt;a href=&#34;http://ChangeMedium.org&#34;&gt;ChangeMedium&lt;/a&gt; experiment &amp;ndash; bringing the context of the medium of change to the developers building its future.&lt;/p&gt;
+&lt;p&gt;The event was an excellent day with over two dozen folks including the &lt;a href=&#34;http://status.net/&#34; title=&#34;status.net&#34;&gt;Status.net&lt;/a&gt;{.zem_slink rel=&amp;ldquo;homepage&amp;rdquo;} team and &lt;a href=&#34;http://twitter.com/peterdeitz&#34;&gt;Peter Deitz&lt;/a&gt; of &lt;a href=&#34;http://www.socialactions.com/&#34; title=&#34;Social Actions&#34;&gt;SocialActions&lt;/a&gt;{.zem_slink rel=&amp;ldquo;homepage&amp;rdquo;}. It was an amazing event to learn about where Status.net and the &lt;a href=&#34;http://openmicroblogging.org/&#34; title=&#34;OpenMicroBlogging&#34;&gt;OpenMicroBlogging&lt;/a&gt;{.zem_slink rel=&amp;ldquo;homepage&amp;rdquo;} initiative (OMB) are going.  The wiki has &lt;a href=&#34;http://status.net/wiki/OpenMicroblogging_and_Federation&#34;&gt;more details on OMB&lt;/a&gt; but it is due for a major new release and will be integrating &lt;a href=&#34;http://code.google.com/p/pubsubhubbub/&#34;&gt;PubSubHubBub&lt;/a&gt;, &lt;a href=&#34;http://activitystrea.ms&#34;&gt;ActivityStrea.ms&lt;/a&gt;, &lt;a href=&#34;http://www.salmon-protocol.org/&#34;&gt;Salmon&lt;/a&gt;, and &lt;a href=&#34;http://code.google.com/p/webfinger/&#34; title=&#34;WebFinger&#34;&gt;WebFinger&lt;/a&gt;{.zem_slink rel=&amp;ldquo;homepage&amp;rdquo;}.  What this means is an integration of emerging protocols to put people at the centre of micro-messaging. Not only is this a positive protocol development, but it signals the collaboration of major participants in this field to create an 0pen, interoperable system &amp;ndash; an essential aspect of the medium of change.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

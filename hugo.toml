@@ -1,0 +1,51 @@
+baseURL = 'https://lewwwk.com/'
+languageCode = 'en-us'
+title = 'Lewwwk'
+theme = 'PaperMod'
+
+[params]
+  description = 'More possibilian. Less dual. For a better future.'
+  author = 'Michael Lewkowitz'
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = true
+  ShowToc = false
+  defaultTheme = "auto"
+
+  [params.homeInfoParams]
+    Title = "Lewwwk"
+    Content = "More possibilian. Less dual. For a better future."
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    name = "Archive"
+    url = "/posts/"
+    weight = 20
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 30
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[build]
+  writeStats = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# Preserve old URL structure
+[permalinks]
+  posts = '/:slug/'

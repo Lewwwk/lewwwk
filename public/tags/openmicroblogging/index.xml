@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenMicroBlogging on Lewwwk</title>
+    <link>https://lewwwk.com/tags/openmicroblogging/</link>
+    <description>Recent content in OpenMicroBlogging on Lewwwk</description>
+    <generator>Hugo -- 0.154.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jan 2010 16:45:10 +0000</lastBuildDate>
+    <atom:link href="https://lewwwk.com/tags/openmicroblogging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenMicroBlogging amps up the medium of change.</title>
+      <link>https://lewwwk.com/openmicroblogging-amps-up-the-medium-of-change./</link>
+      <pubDate>Tue, 05 Jan 2010 16:45:10 +0000</pubDate>
+      <guid>https://lewwwk.com/openmicroblogging-amps-up-the-medium-of-change./</guid>
+      <description>&lt;p&gt;:::::: entry-content
+&lt;img loading=&#34;lazy&#34; src=&#34;http://farm5.static.flickr.com/4043/4246063782_5ee2e9a364.jpg&#34;&gt;{.alignleft decoding=&amp;ldquo;async&amp;rdquo; height=&amp;ldquo;245&amp;rdquo; width=&amp;ldquo;163&amp;rdquo;}&lt;/p&gt;
+&lt;p&gt;December 18th was the first ever &lt;a href=&#34;http://statuscamp.org&#34;&gt;StatusCamp&lt;/a&gt;. It was also another &lt;a href=&#34;http://ChangeMedium.org&#34;&gt;ChangeMedium&lt;/a&gt; experiment &amp;ndash; bringing the context of the medium of change to the developers building its future.&lt;/p&gt;
+&lt;p&gt;The event was an excellent day with over two dozen folks including the &lt;a href=&#34;http://status.net/&#34; title=&#34;status.net&#34;&gt;Status.net&lt;/a&gt;{.zem_slink rel=&amp;ldquo;homepage&amp;rdquo;} team and &lt;a href=&#34;http://twitter.com/peterdeitz&#34;&gt;Peter Deitz&lt;/a&gt; of &lt;a href=&#34;http://www.socialactions.com/&#34; title=&#34;Social Actions&#34;&gt;SocialActions&lt;/a&gt;{.zem_slink rel=&amp;ldquo;homepage&amp;rdquo;}. It was an amazing event to learn about where Status.net and the &lt;a href=&#34;http://openmicroblogging.org/&#34; title=&#34;OpenMicroBlogging&#34;&gt;OpenMicroBlogging&lt;/a&gt;{.zem_slink rel=&amp;ldquo;homepage&amp;rdquo;} initiative (OMB) are going.  The wiki has &lt;a href=&#34;http://status.net/wiki/OpenMicroblogging_and_Federation&#34;&gt;more details on OMB&lt;/a&gt; but it is due for a major new release and will be integrating &lt;a href=&#34;http://code.google.com/p/pubsubhubbub/&#34;&gt;PubSubHubBub&lt;/a&gt;, &lt;a href=&#34;http://activitystrea.ms&#34;&gt;ActivityStrea.ms&lt;/a&gt;, &lt;a href=&#34;http://www.salmon-protocol.org/&#34;&gt;Salmon&lt;/a&gt;, and &lt;a href=&#34;http://code.google.com/p/webfinger/&#34; title=&#34;WebFinger&#34;&gt;WebFinger&lt;/a&gt;{.zem_slink rel=&amp;ldquo;homepage&amp;rdquo;}.  What this means is an integration of emerging protocols to put people at the centre of micro-messaging. Not only is this a positive protocol development, but it signals the collaboration of major participants in this field to create an 0pen, interoperable system &amp;ndash; an essential aspect of the medium of change.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>#cmToronto Recap</title>
+      <link>https://lewwwk.com/%23cmtoronto-recap/</link>
+      <pubDate>Thu, 29 Oct 2009 22:06:41 +0000</pubDate>
+      <guid>https://lewwwk.com/%23cmtoronto-recap/</guid>
+      <description>&lt;p&gt;:::: entry-content&lt;/p&gt;
+&lt;figure class=&#34;wp-caption alignright&#34; style=&#34;width: 163px&#34;&gt;
+&lt;a href=&#34;http://www.flickr.com/photos/michaellewkowitz/sets/72157622542758987/&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3230/4046265077_5b6f81ed32.jpg&#34; title=&#34;Presentations @ #cmToronto&#34; decoding=&#34;async&#34; width=&#34;163&#34; height=&#34;245&#34; alt=&#34;Engaged...&#34; /&gt;&lt;/a&gt;
+&lt;figcaption&gt;Engaged...&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;a href=&#34;http://search.twitter.com/search?q=%23cmToronto&#34;&gt;#cmToronto&lt;/a&gt; opened on a gray Saturday morning with an introduction to &lt;a href=&#34;http://changemedium.org&#34;&gt;ChangeMedium&lt;/a&gt; and the day by &lt;a href=&#34;http://twitter.com/igniter&#34;&gt;Michael Lewkowitz&lt;/a&gt;. &lt;a href=&#34;http://twitter.com/walkah&#34;&gt;James Walker&lt;/a&gt; followed up with an overview of what to expect during the hack session.  The orientation reminded participants that the opportunity is to take us out of our bubble and think about the reach, application, and implications of this medium for society.&lt;/p&gt;
+&lt;p&gt;Our first research presenter was &lt;a href=&#34;http://twitter.com/himabatavia&#34;&gt;Hima Batavia&lt;/a&gt;, Research Assistant at the &lt;a href=&#34;http://mrcglobal.org/&#34;&gt;McLaughlin-Rotman Centre for Global Health and Earth Institute&lt;/a&gt; at Columbia University.  Her talk &amp;ldquo;Mobile Health: the Great Equalizer&amp;rdquo; focused on mobile health and showcased 7 examples including:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
