@@ -33,16 +33,12 @@ theme = 'PaperMod'
     weight = 10
   [[menu.main]]
     name = "Archive"
-    url = "/posts/"
+    url = "/archive/"
     weight = 20
   [[menu.main]]
     name = "Tags"
     url = "/tags/"
     weight = 30
-  [[menu.main]]
-    name = "Search"
-    url = "/search/"
-    weight = 40
 
 [taxonomies]
   category = "categories"

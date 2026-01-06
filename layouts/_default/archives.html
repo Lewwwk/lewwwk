@@ -1,0 +1,88 @@
+{{- define "main" }}
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <div class="post-description">
+    {{ .Description }}
+  </div>
+  {{- end }}
+</header>
+
+<!-- Integrated Search Box -->
+<div id="searchbox" class="archive-search">
+  <input id="searchInput" autofocus placeholder="Search posts..."
+    aria-label="search" type="search" autocomplete="off" maxlength="64">
+  <ul id="searchResults" aria-label="search results"></ul>
+</div>
+
+<!-- Archive List (shown by default, hidden when searching) -->
+<div id="archiveList" class="archive-list">
+{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+
+{{- if site.Params.ShowAllPagesInArchive }}
+{{- $pages = site.RegularPages }}
+{{- end }}
+
+{{- range $pages.GroupByPublishDate "2006" }}
+{{- if ne .Key "0001" }}
+<div class="archive-year">
+  {{- $year := replace .Key "0001" "" }}
+  <h2 class="archive-year-header" id="{{ $year }}">
+    {{- $year -}}
+    <span class="archive-count">{{ len .Pages }}</span>
+  </h2>
+  <ul class="archive-posts">
+    {{- range .Pages }}
+    {{- if eq .Kind "page" }}
+    <li class="archive-entry">
+      <a href="{{ .Permalink }}">
+        <span class="archive-entry-title">{{ .Title | markdownify }}</span>
+        <span class="archive-entry-date">{{ .Date.Format "Jan 2" }}</span>
+      </a>
+    </li>
+    {{- end }}
+    {{- end }}
+  </ul>
+</div>
+{{- end }}
+{{- end }}
+</div>
+
+<!-- Toggle archive list visibility based on search -->
+<script>
+(function() {
+  const searchInput = document.getElementById('searchInput');
+  const searchResults = document.getElementById('searchResults');
+  const archiveList = document.getElementById('archiveList');
+
+  if (searchInput && archiveList) {
+    // Watch for changes in search results
+    const observer = new MutationObserver(function() {
+      if (searchResults.innerHTML.trim() !== '') {
+        archiveList.style.display = 'none';
+      } else {
+        archiveList.style.display = 'block';
+      }
+    });
+
+    observer.observe(searchResults, { childList: true, subtree: true });
+
+    // Also handle input changes directly
+    searchInput.addEventListener('input', function() {
+      if (this.value.trim() === '') {
+        archiveList.style.display = 'block';
+      }
+    });
+
+    // Handle search clear (x button)
+    searchInput.addEventListener('search', function() {
+      if (!this.value) {
+        archiveList.style.display = 'block';
+      }
+    });
+  }
+})();
+</script>
+
+{{- end }}{{/* end main */}}
