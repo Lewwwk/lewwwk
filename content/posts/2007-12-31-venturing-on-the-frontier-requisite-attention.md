@@ -3,17 +3,16 @@ title: "Venturing on the frontier: requisite attention"
 date: 2007-12-31T04:10:00
 draft: false
 categories:
-  - "Uncategorized"
+ - "Uncategorized"
 tags:
-  - "frontiers"
-  - "vfi1"
+ - "frontiers"
+ - "vfi1"
 aliases:
-  - "/post51/"
+ - "/post51/"
 ---
 
-::: entry-content
-Venturing on the frontiers requires distinctly holding attention on two discrete aspects of any venture:\
--- Productive, iterative, exploration of the complexity dynamic\
+Venturing on the frontiers requires distinctly holding attention on two discrete aspects of any venture:
+-- Productive, iterative, exploration of the complexity dynamic
 -- Core venture viability
 
 Simple to say but in practice, venturers who aren't stuck in perpetual analysis and thought, are pulled toward focusing on linear, or hopefully exponential, growth of the most promising aspect at hand particularly after attracting professional investment capital. Stop thinking and just do it right?
@@ -24,5 +23,4 @@ Core venture viability at its essence is the ability for the venture to maintain
 
 The tension created by these two attentions inherently have the potential to compel the venture toward being more efficient and focused with less risk of failure and higher probability of meaningful achievement of its purpose. And like everything else, easier said than done right? Yup.
 
-Blogged with [Flock](http://www.flock.com/blogged-with-flock "Flock"){rel="noopener noreferrer" target="_new"}
-:::
+Blogged with [Flock](http://www.flock.com/blogged-with-flock "Flock")

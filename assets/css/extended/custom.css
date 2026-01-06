@@ -1,0 +1,912 @@
+/*
+ * lewwwk.com Custom Styles - Design Loop 2
+ * Award-Worthy Minimalist Design
+ * Refined: Hero spacing, meta styling, vertical rhythm
+ */
+
+/* ============================================
+   ROOT VARIABLES
+   ============================================ */
+
+:root {
+  /* Pure white, high contrast palette */
+  --theme: #ffffff;
+  --primary: #111111;
+  --secondary: #555555;
+  --tertiary: #f8f8f8;
+  --content: #1a1a1a;
+  --border: #e0e0e0;
+  --code-bg: #f5f5f5;
+
+  /* Distinctive accent - warm amber */
+  --accent: #d97706;
+  --accent-light: #f59e0b;
+
+  /* Link colors */
+  --link-color: #111111;
+  --link-hover: #d97706;
+
+  /* Typography */
+  --font-body: "Charter", "Bitstream Charter", "Sitka Text", Cambria, Georgia, serif;
+  --font-heading: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Monaco, Consolas, monospace;
+
+  /* Sizing */
+  --content-max-width: 720px;
+  --font-size-base: 18px;
+  --line-height-base: 1.7;
+}
+
+/* Dark mode */
+.dark {
+  --theme: #0f0f0f;
+  --primary: #f5f5f5;
+  --secondary: #9a9a9a;
+  --tertiary: #1a1a1a;
+  --content: #e8e8e8;
+  --border: #2d2d2d;
+  --code-bg: #1a1a1a;
+  --link-color: #f5f5f5;
+  --link-hover: #f59e0b;
+}
+
+/* ============================================
+   BASE
+   ============================================ */
+
+html {
+  background: var(--theme) !important;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-base);
+  background: var(--theme) !important;
+  color: var(--content);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ============================================
+   TYPOGRAPHY - Bold & Confident
+   ============================================ */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  line-height: 1.2;
+  color: var(--primary);
+  letter-spacing: -0.02em;
+}
+
+/* Post titles - LARGER, BOLDER */
+.post-title {
+  font-size: 3rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  margin-bottom: 0.75rem;
+  margin-top: 2.5rem;
+  line-height: 1.08;
+}
+
+/* Single post header area */
+.post-header {
+  margin-bottom: 3rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.post-header .post-meta {
+  font-size: 0.75rem;
+  color: var(--secondary);
+  font-family: var(--font-heading);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  opacity: 0.65;
+}
+
+/* Section headers */
+.post-content h2 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--accent);
+  display: inline-block;
+}
+
+.post-content h3 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  color: var(--primary);
+}
+
+.post-content h4 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  color: var(--primary);
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+/* Paragraphs */
+.post-content p {
+  margin-bottom: 1.75rem;
+}
+
+/* Drop cap - Editorial style */
+.post-content > p:first-of-type::first-letter {
+  float: left;
+  font-family: var(--font-heading);
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 0.8;
+  padding-right: 0.6rem;
+  padding-top: 0.15rem;
+  color: var(--accent);
+}
+
+/* Blockquotes - Bold accent */
+blockquote {
+  border-left: 4px solid var(--accent);
+  margin: 2.5rem 0;
+  padding: 1rem 0 1rem 2rem;
+  font-style: italic;
+  font-size: 1.15rem;
+  color: var(--secondary);
+  background: var(--tertiary);
+}
+
+blockquote p {
+  margin-bottom: 0.75rem;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* Lists */
+.post-content ul,
+.post-content ol {
+  margin-bottom: 1.75rem;
+  padding-left: 1.75rem;
+}
+
+.post-content li {
+  margin-bottom: 0.5rem;
+}
+
+/* Horizontal rules */
+.post-content hr {
+  border: none;
+  height: 3px;
+  background: linear-gradient(90deg, var(--accent), var(--accent-light));
+  margin: 4rem auto;
+  width: 60px;
+  border-radius: 2px;
+}
+
+/* Strong */
+.post-content strong {
+  font-weight: 700;
+  color: var(--primary);
+}
+
+/* ============================================
+   LINKS - Accent on hover
+   ============================================ */
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--link-hover);
+}
+
+/* Post content links - underline animation */
+.post-content a {
+  color: var(--primary);
+  text-decoration: none;
+  border-bottom: 1px solid var(--border);
+  transition: border-color 0.2s ease, color 0.2s ease;
+}
+
+.post-content a:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+/* Navigation */
+nav a {
+  color: var(--secondary);
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  position: relative;
+  padding-bottom: 2px;
+}
+
+nav a::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: var(--accent);
+  transition: width 0.25s ease;
+}
+
+nav a:hover {
+  color: var(--primary);
+}
+
+nav a:hover::after {
+  width: 100%;
+}
+
+/* ============================================
+   LAYOUT
+   ============================================ */
+
+.main {
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.post-single .post-content {
+  margin-top: 0;
+}
+
+/* Better first paragraph flow after header */
+.post-single .post-header + .post-content {
+  margin-top: 0;
+}
+
+/* ============================================
+   HOMEPAGE - Impactful Hero
+   ============================================ */
+
+.first-entry {
+  border: none;
+  background: transparent;
+  padding: 5rem 0 4rem 0;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.first-entry .entry-header h1 {
+  font-size: 4rem;
+  font-weight: 800;
+  letter-spacing: -0.04em;
+  margin-bottom: 0.5rem;
+}
+
+.first-entry .entry-content {
+  font-size: 1.2rem;
+  color: var(--secondary);
+  font-style: italic;
+  max-width: 480px;
+  margin: 0 auto;
+  line-height: 1.5;
+}
+
+/* Separator before post list */
+.first-entry + .post-entry {
+  border-top: 1px solid var(--border);
+  padding-top: 3rem;
+}
+
+/* ============================================
+   POST LIST - Clean, Borderless Cards
+   ============================================ */
+
+.post-entry {
+  border: none;
+  border-radius: 0;
+  margin-bottom: 0;
+  padding: 2.5rem 0;
+  background: transparent;
+  border-bottom: 1px solid var(--border);
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+.post-entry:last-child {
+  border-bottom: none;
+}
+
+/* Accent line on hover */
+.post-entry::before {
+  content: '';
+  position: absolute;
+  left: -2rem;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 0;
+  width: 4px;
+  background: var(--accent);
+  transition: height 0.3s ease;
+  border-radius: 2px;
+}
+
+.post-entry:hover::before {
+  height: 60%;
+}
+
+.post-entry:hover {
+  background: transparent;
+}
+
+.post-entry .entry-header h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  letter-spacing: -0.01em;
+  transition: color 0.2s ease;
+}
+
+.post-entry:hover .entry-header h2 {
+  color: var(--accent);
+}
+
+.post-entry .entry-content {
+  color: var(--secondary);
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin-bottom: 0.5rem;
+  opacity: 0.9;
+}
+
+.post-entry .post-meta {
+  color: var(--secondary);
+  font-size: 0.8rem;
+  font-family: var(--font-heading);
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  opacity: 0.8;
+}
+
+/* ============================================
+   HEADER - Minimal & Bold
+   ============================================ */
+
+.header {
+  background: var(--theme);
+  border-bottom: none;
+  padding: 1.5rem 0;
+}
+
+.logo a {
+  font-size: 1.75rem;
+  font-weight: 800;
+  color: var(--primary);
+  letter-spacing: -0.02em;
+  transition: color 0.2s ease, transform 0.2s ease;
+  display: inline-block;
+}
+
+.logo a:hover {
+  color: var(--accent);
+  transform: scale(1.02);
+}
+
+/* ============================================
+   CODE
+   ============================================ */
+
+code {
+  font-family: var(--font-mono);
+  font-size: 0.85em;
+  background: var(--code-bg);
+  padding: 0.2em 0.5em;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+}
+
+pre {
+  background: var(--primary);
+  color: var(--theme);
+  border-radius: 8px;
+  padding: 1.5rem;
+  overflow-x: auto;
+  margin: 2rem 0;
+}
+
+pre code {
+  background: transparent;
+  padding: 0;
+  border: none;
+  color: inherit;
+}
+
+/* ============================================
+   FOOTER
+   ============================================ */
+
+.footer {
+  border-top: 1px solid var(--border);
+  padding: 3rem 0;
+  margin-top: 4rem;
+  color: var(--secondary);
+  font-size: 0.85rem;
+  font-family: var(--font-heading);
+  text-align: center;
+}
+
+.footer a {
+  color: var(--secondary);
+  border-bottom: 1px solid transparent;
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.footer a:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+/* Theme toggle button */
+#theme-toggle {
+  transition: transform 0.2s ease;
+}
+
+#theme-toggle:hover {
+  transform: rotate(15deg);
+}
+
+/* ============================================
+   IMAGES
+   ============================================ */
+
+.post-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 2rem 0;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+}
+
+.post-content figure {
+  margin: 3rem 0;
+}
+
+.post-content figcaption {
+  font-size: 0.875rem;
+  color: var(--secondary);
+  text-align: center;
+  margin-top: 0.75rem;
+  font-style: italic;
+}
+
+/* ============================================
+   POST META
+   ============================================ */
+
+.post-meta {
+  font-family: var(--font-heading);
+  font-size: 0.875rem;
+  color: var(--secondary);
+  font-weight: 500;
+}
+
+/* ============================================
+   PAGINATION
+   ============================================ */
+
+.pagination {
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border);
+}
+
+.page-item a {
+  color: var(--secondary);
+  padding: 0.75rem 1.5rem;
+  border-radius: 6px;
+  font-weight: 600;
+  font-family: var(--font-heading);
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  border: 1px solid var(--border);
+  transition: all 0.25s ease;
+}
+
+.page-item a:hover {
+  color: var(--theme);
+  background: var(--primary);
+  border-color: var(--primary);
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+/* ============================================
+   SELECTION
+   ============================================ */
+
+::selection {
+  background: var(--accent);
+  color: var(--theme);
+}
+
+/* ============================================
+   FOCUS STATES
+   ============================================ */
+
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* ============================================
+   RESPONSIVE
+   ============================================ */
+
+@media (max-width: 768px) {
+  :root {
+    --font-size-base: 17px;
+  }
+
+  .main {
+    padding: 0 1.25rem;
+  }
+
+  .post-title {
+    font-size: 1.85rem;
+    margin-top: 1.5rem;
+  }
+
+  .first-entry {
+    padding: 2.5rem 0 2rem 0;
+  }
+
+  .first-entry .entry-header h1 {
+    font-size: 2.5rem;
+  }
+
+  .first-entry .entry-content {
+    font-size: 1rem;
+    max-width: 100%;
+  }
+
+  .first-entry + .post-entry {
+    padding-top: 1.5rem;
+  }
+
+  .post-entry {
+    padding: 1.5rem 0;
+  }
+
+  .post-entry::before {
+    left: -1.25rem;
+    width: 3px;
+  }
+
+  .post-entry .entry-header h2 {
+    font-size: 1.25rem;
+  }
+
+  .post-content > p:first-of-type::first-letter {
+    font-size: 2.75rem;
+    padding-right: 0.4rem;
+  }
+
+  .post-content h2 {
+    font-size: 1.35rem;
+    margin-top: 2.5rem;
+  }
+
+  .post-content h3 {
+    font-size: 1.15rem;
+    margin-top: 2rem;
+  }
+
+  blockquote {
+    padding-left: 1.25rem;
+    margin: 1.5rem 0;
+    font-size: 1rem;
+  }
+
+  .post-header {
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+  }
+
+  .pagination {
+    margin-top: 2.5rem;
+    padding-top: 1.5rem;
+  }
+
+  .page-item a {
+    padding: 0.6rem 1.25rem;
+    font-size: 0.8rem;
+  }
+}
+
+/* Extra small screens */
+@media (max-width: 480px) {
+  .first-entry .entry-header h1 {
+    font-size: 2rem;
+  }
+
+  .post-title {
+    font-size: 1.6rem;
+  }
+
+  .post-content > p:first-of-type::first-letter {
+    font-size: 2.25rem;
+  }
+
+  nav a {
+    font-size: 0.8rem;
+    letter-spacing: 0.03em;
+  }
+}
+
+/* ============================================
+   ARCHIVE PAGE
+   ============================================ */
+
+.archive-year {
+  font-size: 2rem;
+  font-weight: 800;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  color: var(--accent);
+}
+
+/* ============================================
+   PAGES - No drop cap for short content (About, etc.)
+   ============================================ */
+
+.no-dropcap > p:first-of-type::first-letter,
+.page-about .post-content > p:first-of-type::first-letter {
+  float: none !important;
+  font-size: inherit !important;
+  font-weight: inherit !important;
+  line-height: inherit !important;
+  padding: 0 !important;
+  color: inherit !important;
+}
+
+/* ============================================
+   ENHANCED HOMEPAGE HERO
+   ============================================ */
+
+.first-entry {
+  position: relative;
+  padding: 6rem 0 5rem 0;
+}
+
+/* Subtle decorative element above title */
+.first-entry::before {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 4px;
+  background: linear-gradient(90deg, var(--accent), var(--accent-light));
+  margin: 0 auto 2rem auto;
+  border-radius: 2px;
+}
+
+/* Title with gradient accent on hover */
+.first-entry .entry-header h1 {
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+}
+
+.first-entry .entry-header h1::after {
+  content: '';
+  position: absolute;
+  bottom: -8px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 3px;
+  background: var(--accent);
+  transition: width 0.3s ease;
+  border-radius: 2px;
+}
+
+.first-entry:hover .entry-header h1::after {
+  width: 80px;
+}
+
+/* Enhanced tagline */
+.first-entry .entry-content {
+  position: relative;
+  padding-top: 1.5rem;
+}
+
+/* Decorative quotes around tagline */
+.first-entry .entry-content::before {
+  content: '"';
+  font-family: Georgia, serif;
+  font-size: 3rem;
+  color: var(--accent);
+  opacity: 0.3;
+  position: absolute;
+  top: 0.5rem;
+  left: -1.5rem;
+  line-height: 1;
+}
+
+.first-entry .entry-content::after {
+  content: '"';
+  font-family: Georgia, serif;
+  font-size: 3rem;
+  color: var(--accent);
+  opacity: 0.3;
+  position: absolute;
+  bottom: -1rem;
+  right: -1.5rem;
+  line-height: 1;
+}
+
+/* ============================================
+   SEARCH PAGE
+   ============================================ */
+
+.search-container {
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+}
+
+#searchbox {
+  width: 100%;
+  padding: 1rem 1.25rem;
+  font-size: 1.1rem;
+  font-family: var(--font-body);
+  border: 2px solid var(--border);
+  border-radius: 8px;
+  background: var(--theme);
+  color: var(--content);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  margin-bottom: 2rem;
+}
+
+#searchbox:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px rgba(217, 119, 6, 0.15);
+}
+
+#searchbox::placeholder {
+  color: var(--secondary);
+  opacity: 0.7;
+}
+
+/* Search results */
+#searchResults {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#searchResults li {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+#searchResults li:last-child {
+  border-bottom: none;
+}
+
+#searchResults a {
+  text-decoration: none;
+  color: var(--primary);
+  display: block;
+}
+
+#searchResults .entry-header h2 {
+  font-size: 1.35rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  transition: color 0.2s ease;
+}
+
+#searchResults a:hover .entry-header h2 {
+  color: var(--accent);
+}
+
+#searchResults .entry-content {
+  color: var(--secondary);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+/* Search page title */
+.search .post-title {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+/* ============================================
+   ARCHIVE PAGE ENHANCEMENTS
+   ============================================ */
+
+.archive-entry {
+  padding: 0.75rem 0;
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+}
+
+.archive-entry-title {
+  flex: 1;
+}
+
+.archive-entry-title a {
+  color: var(--primary);
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.archive-entry-title a:hover {
+  color: var(--accent);
+}
+
+.archive-entry-date {
+  color: var(--secondary);
+  font-size: 0.85rem;
+  font-family: var(--font-heading);
+  white-space: nowrap;
+}
+
+/* ============================================
+   MOBILE ADJUSTMENTS FOR NEW FEATURES
+   ============================================ */
+
+@media (max-width: 768px) {
+  .first-entry {
+    padding: 3.5rem 0 3rem 0;
+  }
+
+  .first-entry::before {
+    width: 40px;
+    height: 3px;
+    margin-bottom: 1.5rem;
+  }
+
+  .first-entry .entry-content::before,
+  .first-entry .entry-content::after {
+    font-size: 2rem;
+    opacity: 0.2;
+  }
+
+  .first-entry .entry-content::before {
+    left: -0.5rem;
+  }
+
+  .first-entry .entry-content::after {
+    right: -0.5rem;
+  }
+
+  #searchbox {
+    padding: 0.875rem 1rem;
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .first-entry .entry-content::before,
+  .first-entry .entry-content::after {
+    display: none;
+  }
+}

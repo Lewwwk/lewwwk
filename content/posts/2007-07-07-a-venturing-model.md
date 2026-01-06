@@ -3,16 +3,15 @@ title: "A Venturing Model"
 date: 2007-07-07T03:24:00
 draft: false
 categories:
-  - "Uncategorized"
+ - "Uncategorized"
 tags:
-  - "systemic intervention"
+ - "systemic intervention"
 aliases:
-  - "/post23/"
+ - "/post23/"
 ---
 
-::: entry-content
-I've been wanting to post on this for a while now. It's a snapshot of my latest understanding of the venturing process. It's early draft and the writing below is pretty much stream of consciousness but I'm being drawn to just get it out:\
-[![](http://bp0.blogger.com/_Ilyk7YpQhy0/Ro8IMBZz5lI/AAAAAAAAAAw/KmGG5MgFhUc/s400/iggy-ivm-v1a.gif){#BLOGGER_PHOTO_ID_5084291506952726098 border="0" decoding="async" style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;"}](http://bp0.blogger.com/_Ilyk7YpQhy0/Ro8IMBZz5lI/AAAAAAAAAAw/KmGG5MgFhUc/s1600-h/iggy-ivm-v1a.gif){onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"}\
+I've been wanting to post on this for a while now. It's a snapshot of my latest understanding of the venturing process. It's early draft and the writing below is pretty much stream of consciousness but I'm being drawn to just get it out:
+[![](http://bp0.blogger.com/_Ilyk7YpQhy0/Ro8IMBZz5lI/AAAAAAAAAAw/KmGG5MgFhUc/s400/iggy-ivm-v1a.gif)](http://bp0.blogger.com/_Ilyk7YpQhy0/Ro8IMBZz5lI/AAAAAAAAAAw/KmGG5MgFhUc/s1600-h/iggy-ivm-v1a.gif)
 We're in an interesting point in history where there is a transition from a mindset based on seeking to understand the smallest components of things (reductionist thinking, command and control models, 'the great clockwork', world/problems as 'complicated') toward a mindset that looks at systems in terms of the relationships/context in order to understand them (systems, ecological, 'complex').
 
 I've been finding the early-stage venturing process as an interesting place to explore this transition and what it means for those who are using venturing as an approach to addressing issues that are becoming increasingly important to people and the planet.
@@ -32,4 +31,3 @@ It's not surprising then to see the emergence of 'social entrepreneurs' as the m
 The attempt here then becomes one of unpacking what happens intuitively within the social entrepreneur and those advisers and contributors that have developed a good 'gut' for navigating a venture vortex from the no longer to the not yet. My hope with this is that we can begin to broaden the understanding of this complex process and thereby broaden society's ability to employ the venturing process to evoke the systemic shifts that are and are asking to unfold as part of the history we are creating.
 
 Onward...
-:::

@@ -3,26 +3,23 @@ title: "Reviving Democracy: a call to Canadians to step up!"
 date: 2008-12-09T21:26:33
 draft: false
 categories:
-  - "Events"
-  - "Thoughts"
+ - "Events"
+ - "Thoughts"
 tags:
-  - "Canada"
-  - "ChangeGovCA"
-  - "CommonCraft"
-  - "democracy"
-  - "FairVote Canda"
-  - "Politics"
+ - "Canada"
+ - "ChangeGovCA"
+ - "CommonCraft"
+ - "democracy"
+ - "FairVote Canda"
+ - "Politics"
 aliases:
-  - "/post335/"
+ - "/post335/"
 ---
 
-::::: entry-content
-::: zemanta-img
 <figure class="wp-caption alignleft" style="width: 240px">
-<a href="http://www.flickr.com/photos/22168167@N00/2076448655"><img src="http://farm3.static.flickr.com/2056/2076448655_1b96031474_m.jpg" title="Drapeau du Canada à la Citadelle de Québec" decoding="async" width="240" height="180" alt="Drapeau du Canada à la Citadelle de Québec" /></a>
+<a href="http://www.flickr.com/photos/22168167@N00/2076448655"><img src="http://farm3.static.flickr.com/2056/2076448655_1b96031474_m.jpg" title="Drapeau du Canada à la Citadelle de Québec" width="240" height="180" alt="Drapeau du Canada à la Citadelle de Québec" /></a>
 <figcaption>Image by abdallahh via Flickr</figcaption>
 </figure>
-:::
 
 My interest in politics and democracy hit record levels recently. November was hope inspired with the victory of the [Obama](http://change.gov/) movement and then by a revolt in the [House of Commons](http://www.parl.gc.ca/) in Canada. The [Governor General](http://www.gg.ca/menu_e.asp)'s decision to prorogue sparked a visceral anger unlike any I've experienced in a long time. To me it was a technically legitimate assault on the core of our democracy -- blatantly ignoring the voice of the people that we voted to represent us -- the members of the House.
 
@@ -39,13 +36,9 @@ We need to change politics in Canada. Some things that would contribute to doing
 - **[Parliamentary Democracy](http://en.wikipedia.org/wiki/Parliamentary_democracy) 101** ([commoncraft](http://www.commoncraft.com/) style)
 - **Political Culture exposes** (creative examples of our politicians spouting lies and mistruths about our democratic system, fearmongering, and divisive, power hungry tactics)
 - **The Coalition Movement** (a movement supporting the values, strengths, and benefits of coalitions in our democratic system)
-- **Electoral Reform** (introducing [Mixed Member Proportional Representation](http://en.wikipedia.org/wiki/Mixed_member_proportional_representation "Mixed member proportional representation"){.zem_slink rel="wikipedia"})
+- **Electoral Reform** (introducing [Mixed Member Proportional Representation](http://en.wikipedia.org/wiki/Mixed_member_proportional_representation "Mixed member proportional representation"))
 
-It's painfully clear that none of these things will happen from within the system. That's not surprising. I do think there is hope though -- and that's through a revival of civic engagement enabled by the tools of the web and our world-class creative communities.  Already there are initiatives like [[FairVote]{.zem_slink} Canada](http://www.fairvote.ca/) and [ChangeGov.ca](http://changegov.ca). Those are just a couple of many (if you know one pop it in the comments). We have some of the world's leading experts in online community building, activism, creative content, journalism, and all other things web and civic.
+It's painfully clear that none of these things will happen from within the system. That's not surprising. I do think there is hope though -- and that's through a revival of civic engagement enabled by the tools of the web and our world-class creative communities.  Already there are initiatives like [[FairVote] Canada](http://www.fairvote.ca/) and [ChangeGov.ca](http://changegov.ca). Those are just a couple of many (if you know one pop it in the comments). We have some of the world's leading experts in online community building, activism, creative content, journalism, and all other things web and civic.
 
 It's time to step up -- we need them -- we need everyone -- we need you. I am finding my way to do my part... and for the love of Canada, I hope you do to.
 
-::: {.zemanta-pixie style="margin-top: 10px; height: 15px;"}
-[![Reblog this post \[with Zemanta\]](http://img.zemanta.com/reblog_c.png?x-id=f6ec6c5a-44ae-4a81-bbb9-9073bb829752){.zemanta-pixie-img decoding="async" style="border: medium none; float: right;"}](http://reblog.zemanta.com/zemified/f6ec6c5a-44ae-4a81-bbb9-9073bb829752/ "Zemified by Zemanta"){.zemanta-pixie-a}
-:::
-:::::

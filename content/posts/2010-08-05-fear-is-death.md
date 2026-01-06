@@ -3,15 +3,14 @@ title: "Fear is Death"
 date: 2010-08-05T16:24:31
 draft: false
 categories:
-  - "Thoughts"
+ - "Thoughts"
 tags:
-  - "shortie"
-  - "thoughts"
+ - "shortie"
+ - "thoughts"
 aliases:
-  - "/post4744/"
+ - "/post4744/"
 ---
 
-::: entry-content
 I happened across [Alex Bogusky's posterous](http://alexbogusky.posterous.com/) yesterday and his sub-line stuck with me:
 
 > Fear is the mortal enemy of creativity, innovation and happiness.
@@ -25,4 +24,3 @@ But fear is also an opportunity. It's an opportunity to uncover and let go somet
 In either case it means something has to die. Fortunately, the choice is ours. And for me, life depends on it.
 
 UPDATE 100808: Thought some more about fear on my run yesterday. Fighting fear is futile, it will just show up elsewhere. It's choosing to go forward while the fear is there. Let the fear be. Watch it, understand it, but don't let it stop you from what you want to do. And definitely, don't try and stop others from doing what they want to do because of it. Those are sure recipes for rot and decay.
-:::

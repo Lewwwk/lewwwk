@@ -3,15 +3,14 @@ title: "Unfollow fun."
 date: 2010-08-07T02:17:20
 draft: false
 categories:
-  - "Thoughts"
+ - "Thoughts"
 aliases:
-  - "/post4934/"
+ - "/post4934/"
 ---
 
-:::: entry-content
 I was outed today with a healthy dose of snark:
 
-[![](/images/Outed-thipzp.png)](/images/Outed-thipzp.png)This was not a case of "oh, sorry, [Twitter](http://twitter.com "Twitter"){.zem_slink rel="homepage"} must have somehow unfollowed you", it was a case of "ya, I unfollowed you... and everyone else." You see, I've long valued Twitter a brilliant discovery tool -- both for information and new relationships. Reading Power of Pull recently reminded me of that which got me to...
+[![](/images/Outed-thipzp.png)](/images/Outed-thipzp.png)This was not a case of "oh, sorry, [Twitter](http://twitter.com "Twitter") must have somehow unfollowed you", it was a case of "ya, I unfollowed you... and everyone else." You see, I've long valued Twitter a brilliant discovery tool -- both for information and new relationships. Reading Power of Pull recently reminded me of that which got me to...
 
 [![](/images/thinking-msxtba.png)](/images/thinking-msxtba.png)
 
@@ -26,7 +25,3 @@ Twitter though is nothing without snark. And so my first follow of course had to
 - [5 Twitter tools to Unfollow Inactive Users](http://www.shoutmeloud.com/5-twitter-tools-to-unfollow-inactive-users.html) (shoutmeloud.com)
 - [Unfollow Some People on Twitter for a Reason](http://www.labnol.org/internet/mass-unfollow-people-on-twitter/13968/) (labnol.org)
 
-::: {.zemanta-pixie style="margin-top: 10px; height: 15px;"}
-[![Enhanced by Zemanta](http://img.zemanta.com/zemified_a.png?x-id=582dbb33-706f-4947-8620-f738fe2b80bc){.zemanta-pixie-img decoding="async" style="border: none; float: right;"}](http://www.zemanta.com/ "Enhanced by Zemanta"){.zemanta-pixie-a}
-:::
-::::

@@ -3,12 +3,11 @@ title: "Right? Bullshit."
 date: 2010-03-10T02:10:13
 draft: false
 categories:
-  - "Thoughts"
+ - "Thoughts"
 aliases:
-  - "/post593/"
+ - "/post593/"
 ---
 
-::: entry-content
 Pardon the profanity, but I'm tired of the bullshit.
 
 People like to be right. Often being right means making other people wrong. This is not productive.
@@ -24,4 +23,3 @@ So, self-righteousness rant complete, time to get back to work.
 Peace, love, and let's fix this mess.
 
 PS... if you ever find yourself in conversation with me and find yourself a recipient of righteousness... please, please, please call my bullshit. We'll save ourselves a lot of time.
-:::

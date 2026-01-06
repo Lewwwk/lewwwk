@@ -3,15 +3,14 @@ title: "New Capabilities, Behaviours, and Systems: How ventures change the world
 date: 2020-03-06T19:58:19
 draft: false
 categories:
-  - "Uncategorized"
+ - "Uncategorized"
 tags:
-  - "perspectives"
-  - "possibilian"
+ - "perspectives"
+ - "possibilian"
 aliases:
-  - "/post7690/"
+ - "/post7690/"
 ---
 
-::: entry-content
 A few weeks ago I started sharing [how we think about the transformative potential of ventures](https://www.notion.so/possibilian/How-we-think-about-ventures-and-the-future-f248f1e4c7d44e15803c24b009648251), or in other words, what's the potential for a company to 'change the world'.
 
 While it's impossible to predict if any venture will actually 'change the world', we can be sure that if it does, it will have done so through some combination of the following:
@@ -22,11 +21,11 @@ While it's impossible to predict if any venture will actually 'change the world'
 
 Let's take a look at Twitter as a simple example.
 
-1.  Allow people to post a simple text message that is publicly available (new capability)
-2.  People start publicly sharing seemingly trivial updates such as 'what they ate for breakfast' (new behaviour)
-3.  Allow anyone to subscribe to someone's posts without their permission ( completes the loop to enable a new system)
-4.  *... effort, investment, and good fortune ...*
-5.  **The world's information source for what's happening right now.**
+1. Allow people to post a simple text message that is publicly available (new capability)
+2. People start publicly sharing seemingly trivial updates such as 'what they ate for breakfast' (new behaviour)
+3. Allow anyone to subscribe to someone's posts without their permission ( completes the loop to enable a new system)
+4. *... effort, investment, and good fortune ...*
+5. **The world's information source for what's happening right now.**
 
 Step 4 is what makes it happen, but steps 1, 2, and 3 set the stage for what's possible. While few had any reasonable belief that step 5 would be the outcome when it started, it would have been easy to see from the earliest days that a new capability (1) was leading to a new behaviour (2) and giving rise to a new system (3). The behaviour of 'sharing what you eat for breakfast' was easy to dismiss, but enough of those that experienced it, sensed it could be something more.
 
@@ -51,4 +50,3 @@ Of course, like with Twitter, there is also often **a combination of capabilitie
 In each of these cases it's impossible to predict the outcome. We can however see that they each have some key components around which a world changing company could be built. And if your goal is to see a better future, those are great places to dig in to understand what might be possible.
 
 *You can see our growing set of perspectives [here](https://www.notion.so/possibilian/How-we-think-about-ventures-and-the-future-f248f1e4c7d44e15803c24b009648251).*
-:::

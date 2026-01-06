@@ -3,14 +3,13 @@ title: "Venturing and venture investing on the frontiers – in simple terms."
 date: 2008-02-04T12:53:00
 draft: false
 categories:
-  - "Uncategorized"
+ - "Uncategorized"
 tags:
-  - "frontiers"
+ - "frontiers"
 aliases:
-  - "/post60/"
+ - "/post60/"
 ---
 
-::: entry-content
 I've been asked a few times about what I'm working on in simple terms. Not always easy for me -- but here goes top-of-mind while riding the train...
 
 [My focus is on venturing and venture investing 'on the frontiers'. ]{style="font-weight: bold;"}
@@ -51,4 +50,3 @@ My work is focused on being able to systematically improve ventures and venture 
 - fluid vs. rigid
 - framed vs. forced
 - ...
-:::

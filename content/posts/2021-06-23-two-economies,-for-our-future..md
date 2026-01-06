@@ -3,12 +3,11 @@ title: "Two economies, for our future."
 date: 2021-06-23T13:45:40
 draft: false
 categories:
-  - "Uncategorized"
+ - "Uncategorized"
 aliases:
-  - "/post7960/"
+ - "/post7960/"
 ---
 
-::: entry-content
 As the twin crises of climate and inequality continue to ripple through society, we have a growing imperative to address them both. If either continues unabated, neither can be resolved.
 
 From a venture perspective, we are starting to think of the set of solutions that venture can contribute as economies of Transition and Cooperation. 
@@ -23,9 +22,8 @@ From a venture perspective, we are starting to think of the set of solutions tha
 
 ------------------------------------------------------------------------
 
-Decades of technological development and diffusion combined with [accelerating cultural shifts](https://lewwwk.com/post7699/){rel="noreferrer noopener" target="_blank"} lay the foundation for these two economies as we emerge from the pandemic today. Over time, we expect exciting opportunities to arise where these two economies overlap, making the transition more participatory, and directing more participation toward transition.
+Decades of technological development and diffusion combined with [accelerating cultural shifts](https://lewwwk.com/post7699/) lay the foundation for these two economies as we emerge from the pandemic today. Over time, we expect exciting opportunities to arise where these two economies overlap, making the transition more participatory, and directing more participation toward transition.
 
 While no single set of solutions is enough, the quality and success of the collection of solutions that arise in these two economies hold a key to addressing our existential crises and arriving at a future that's better for all of us.
 
-If you are [building](http://possibilian.vc/){rel="noreferrer noopener" target="_blank"}, [investing](http://possibilian.vc/#invest){rel="noreferrer noopener" target="_blank"}, or otherwise [interested](http://possibilian.vc/#ecosystem){rel="noreferrer noopener" target="_blank"} in this future, we'd love to meet you. 
-:::
+If you are [building](http://possibilian.vc/), [investing](http://possibilian.vc/#invest), or otherwise [interested](http://possibilian.vc/#ecosystem) in this future, we'd love to meet you. 

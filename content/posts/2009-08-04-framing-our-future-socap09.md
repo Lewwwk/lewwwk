@@ -3,21 +3,22 @@ title: "Framing our future: SoCap09"
 date: 2009-08-04T02:21:41
 draft: false
 categories:
-  - "Events"
-  - "Thoughts"
+ - "Events"
+ - "Thoughts"
 tags:
-  - "Jessica Margolin"
-  - "Om Malik"
-  - "SoCap09"
-  - "Social capital"
-  - "Social media"
-  - "Twitter"
+ - "Jessica Margolin"
+ - "Om Malik"
+ - "SoCap09"
+ - "Social capital"
+ - "Social media"
+ - "Twitter"
 aliases:
-  - "/post458/"
+ - "/post458/"
 ---
 
-:::: entry-content
-<!-- Image unavailable -->I'm looking forward to this year's [Social Capital Markets conference](http://socialcapitalmarkets.net). [Last year](http://socialfinance.ca/blog/2008/12/opportunity-amidst-crisis-a-recap-of-social-capital-markets-conf/) I came way with a sense of a movement -- a long term movement that was working with the balance of social and financial objectives in service of a better world for all. I'm sure this year will do much of the same -- bringing the best of the movement together to share their progress and inspire those who are looking to explore 'the intersection of money and meaning'. If you are interested in this space, [it's the place to be](https://www.reg-services.com/socialcapitalmedia/socap09/).
+![SoCap09](/images/recovered/2009-08-04-socap09-badge.gif)
+
+I'm looking forward to this year's [Social Capital Markets conference](http://socialcapitalmarkets.net). [Last year](http://socialfinance.ca/blog/2008/12/opportunity-amidst-crisis-a-recap-of-social-capital-markets-conf/) I came way with a sense of a movement -- a long term movement that was working with the balance of social and financial objectives in service of a better world for all. I'm sure this year will do much of the same -- bringing the best of the movement together to share their progress and inspire those who are looking to explore 'the intersection of money and meaning'. If you are interested in this space, [it's the place to be](https://www.reg-services.com/socialcapitalmedia/socap09/).
 
 This year though, I'm going with a more ambitious agenda. [Jessica Margolin](http://www.margolin-consulting.com/about.html) hit on something in [her SoCap09 post](http://www.margolin-consulting.com/2009/08/socap09.html) -- encapsulated in these 2 quotes:
 
@@ -33,7 +34,3 @@ This week's [#SoCap09](http://search.twitter.com/search?q=%23SoCap09) twitter ch
 
 The game is changing more than we realize and in ways we don't yet understand... so let's ask some questions... let's hack some solutions... let's get to it.
 
-::: {.zemanta-pixie style="margin-top: 10px; height: 15px;"}
-[![Reblog this post \[with Zemanta\]](http://img.zemanta.com/reblog_c.png?x-id=91d09938-b112-43cb-96db-0c1174e258a4){.zemanta-pixie-img decoding="async" style="border: none; float: right;"}](http://reblog.zemanta.com/zemified/91d09938-b112-43cb-96db-0c1174e258a4/ "Reblog this post [with Zemanta]"){.zemanta-pixie-a}
-:::
-::::

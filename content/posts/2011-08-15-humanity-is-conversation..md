@@ -3,22 +3,21 @@ title: "Humanity is conversation."
 date: 2011-08-15T14:40:29
 draft: false
 categories:
-  - "Thoughts"
+ - "Thoughts"
 tags:
-  - "Cluetrain Manifesto"
-  - "Conversation"
-  - "Human"
-  - "Social media"
+ - "Cluetrain Manifesto"
+ - "Conversation"
+ - "Human"
+ - "Social media"
 aliases:
-  - "/post7459/"
+ - "/post7459/"
 ---
 
-:::: entry-content
-[![Calcutta Coffee House - 5](http://farm1.static.flickr.com/218/481267425_153625e09f.jpg){.alignright decoding="async" height="144" width="216"}](http://www.flickr.com/photos/lecercle/481267425/ "Calcutta Coffee House -  5 by lecercle, on Flickr")
+[![Calcutta Coffee House - 5](http://farm1.static.flickr.com/218/481267425_153625e09f.jpg){.alignright height="144" width="216"}](http://www.flickr.com/photos/lecercle/481267425/ "Calcutta Coffee House - 5 by lecercle, on Flickr")
 
-> "[Markets are conversations](http://www.cluetrain.com/book/markets.html){rel="noopener noreferrer" target="_blank"}".
+> "[Markets are conversations](http://www.cluetrain.com/book/markets.html)".
 
-While on [a long run yesterday](http://www.dailymile.com/people/Igniter/entries/9078704){rel="noopener noreferrer" target="_blank"} along the [Thames](http://en.wikipedia.org/wiki/Thames_River_(Ontario)){rel="noopener noreferrer" target="_blank"} (yes we have one [here](http://en.wikipedia.org/wiki/London,_Ontario){rel="noopener noreferrer" target="_blank"} too) I got thinking about the Cluetrain and that core thesis.
+While on [a long run yesterday](http://www.dailymile.com/people/Igniter/entries/9078704) along the [Thames](http://en.wikipedia.org/wiki/Thames_River_(Ontario)) (yes we have one [here](http://en.wikipedia.org/wiki/London,_Ontario) too) I got thinking about the Cluetrain and that core thesis.
 
 > Yes, and... "Humanity is conversation".
 
@@ -34,7 +33,3 @@ And so, in a way, I am really a set of conversations, a participant in many more
 
 Sometimes it's nice to sit on the shore and watch it go. Sometimes it's nice to get naked and dive in. Whatever I do, and however it happens, it's nice to know it's all a part of this great conversation we we call humanity.
 
-::: {.zemanta-pixie style="margin-top: 10px; height: 15px;"}
-[![Enhanced by Zemanta](http://img.zemanta.com/zemified_a.png?x-id=36cc3a15-dd06-444c-b33c-e96ab8a292d5){.zemanta-pixie-img decoding="async" style="border: none; float: right;"}](http://www.zemanta.com/ "Enhanced by Zemanta"){.zemanta-pixie-a}
-:::
-::::

@@ -3,19 +3,18 @@ title: "Peer-producing a for-profit startup."
 date: 2008-12-23T21:55:06
 draft: false
 categories:
-  - "Thoughts"
-  - "Ventures"
+ - "Thoughts"
+ - "Ventures"
 tags:
-  - "^ventwits"
-  - "#ppo"
-  - "#svc"
+ - "^ventwits"
+ - "#ppo"
+ - "#svc"
 aliases:
-  - "/post350/"
+ - "/post350/"
 ---
 
-:::: entry-content
 <figure class="wp-caption alignright" style="width: 300px">
-<a href="http://www.flickr.com/photos/tjt195/113596431/" title="Ant Party by tarotastic, on Flickr"><img src="http://farm1.static.flickr.com/53/113596431_63b3f82285.jpg" decoding="async" fetchpriority="high" width="300" height="199" alt="Ant Party" /></a>
+<a href="http://www.flickr.com/photos/tjt195/113596431/" title="Ant Party by tarotastic, on Flickr"><img src="http://farm1.static.flickr.com/53/113596431_63b3f82285.jpg" width="300" height="199" alt="Ant Party" /></a>
 <figcaption>By tarotastic (tjt195 on flickr)</figcaption>
 </figure>
 
@@ -27,16 +26,12 @@ It also brings up the question of how to share equity in the early stages which 
 
 The conversations around this from one side are around how do we distribute equity fairly using some form of measure as a baseline (e.g. hours in) and on the other side... non-existent (e.g. "can't talk... building"). For me it's my inclination to let it ride until we get a crystallization event -- which will be in Q1 of 2009 and then take stock of where we are at and work it out in conversation. Logically I'd like a formulaic approach but nothing's 'felt' like it would work yet.
 
-So what seems to be tested by bringing in '[peer-production](http://en.wikipedia.org/wiki/Commons-based_peer_production "Commons-based peer production"){.zem_slink rel="wikipedia"}' into a for-profit startup are:
+So what seems to be tested by bringing in '[peer-production](http://en.wikipedia.org/wiki/Commons-based_peer_production "Commons-based peer production")' into a for-profit startup are:
 
-1.  blurring the edges of organization (permeability)
-2.  allocating parcipation rights to future wealth (distribution)
+1. blurring the edges of organization (permeability)
+2. allocating parcipation rights to future wealth (distribution)
 
 I think this might get easier as the venture gains momentum, size, and value because the value of each individual contribution will be smaller than the value of whole. I'm not willing to bet on that yet though -- as that may simply be the lure of convention and I'm sure there will be host of other challenges.
 
 It's an interesting journey and would love to hear other thoughts/examples/discussion. Fire away in the comments or feel free to ping me directly.
 
-::: {.zemanta-pixie style="margin-top: 10px; height: 15px;"}
-[![Reblog this post \[with Zemanta\]](http://img.zemanta.com/reblog_c.png?x-id=912803f2-7c94-40fd-9cc5-7387aef60025){.zemanta-pixie-img decoding="async" style="border: medium none; float: right;"}](http://reblog.zemanta.com/zemified/912803f2-7c94-40fd-9cc5-7387aef60025/ "Zemified by Zemanta"){.zemanta-pixie-a}
-:::
-::::

@@ -3,12 +3,11 @@ title: "Awaiting the accounting revolution."
 date: 2007-10-23T01:28:00
 draft: false
 categories:
-  - "Thoughts"
+ - "Thoughts"
 aliases:
-  - "/post39/"
+ - "/post39/"
 ---
 
-::: entry-content
 I've been twittering my frustrations today.  I have a fairly simple financial situation and have 2 companies that I process both Shawna's and my work through.  There's nothing complex with either of them so I've been filing the taxes and handling the bookkeeping myself since the beginning except for a short stint where I outsourced the annual filings. 
 
 My frustration is that doing it myself is harder than it should be. Bookkeeping/accounting software is far more cumbersome and antequated than it should be, and it costs too much for things that should be free (tax table updates and payroll functionality).
@@ -19,5 +18,4 @@ I'm sure I'm not alone. The small business community is growing as we move into 
 
 With all that I wonder if a big Intuit (Quickbooks) upset is in the works.  With the speed that these services have been made available and they key building blocks in Wesabe and Freshbooks... I'm hoping it's only a matter of months.  In fact, I'm hoping it's before the start of the next fiscal year -- even in beta -- I'd love to be testing!
 
-Blogged with [Flock](http://www.flock.com/blogged-with-flock "Flock"){rel="noopener noreferrer" target="_new"}
-:::
+Blogged with [Flock](http://www.flock.com/blogged-with-flock "Flock")

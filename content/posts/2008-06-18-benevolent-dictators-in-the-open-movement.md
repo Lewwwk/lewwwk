@@ -3,17 +3,16 @@ title: "Benevolent dictators in the open movement"
 date: 2008-06-18T13:54:00
 draft: false
 categories:
-  - "Uncategorized"
+ - "Uncategorized"
 tags:
-  - "openeverything"
+ - "openeverything"
 aliases:
-  - "/post72/"
+ - "/post72/"
 ---
 
-::: entry-content
-[![](http://bp1.blogger.com/_Ilyk7YpQhy0/SFkZZoVM3KI/AAAAAAAAAC4/kfsjLRe1l40/s320/254908846_c8a5982675_m.jpg){#BLOGGER_PHOTO_ID_5213225971771825314 border="0" decoding="async" style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;"}](http://bp1.blogger.com/_Ilyk7YpQhy0/SFkZZoVM3KI/AAAAAAAAAC4/kfsjLRe1l40/s1600-h/254908846_c8a5982675_m.jpg){onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"}One of the interesting things coming out of [OPEN everything (Toronto)](http://lewwwk.com2008/06/open-everything-toronto-reflection.html) was the idea that open projects are driven by what we were calling 'benevolent dictators'. That phrase, while abrasive to some, seems to be resonating in a number of different conversations that I and others are having.
+[![](http://bp1.blogger.com/_Ilyk7YpQhy0/SFkZZoVM3KI/AAAAAAAAAC4/kfsjLRe1l40/s320/254908846_c8a5982675_m.jpg)](http://bp1.blogger.com/_Ilyk7YpQhy0/SFkZZoVM3KI/AAAAAAAAAC4/kfsjLRe1l40/s1600-h/254908846_c8a5982675_m.jpg)One of the interesting things coming out of [OPEN everything (Toronto)](http://lewwwk.com2008/06/open-everything-toronto-reflection.html) was the idea that open projects are driven by what we were calling 'benevolent dictators'. That phrase, while abrasive to some, seems to be resonating in a number of different conversations that I and others are having.
 
-What it seems to do is counter the notion that open is a touchy-[feely]{#SPELLING_ERROR_0 .blsp-spelling-error}, everyone has to agree, happy place where everyone gets along. At the same time it reinforces the important and evolving role of leadership. What I'm starting to try and tease out is what are the qualities of open leadership that we're really getting at? And which of those are core values -- and which are situational reactions?
+What it seems to do is counter the notion that open is a touchy-feely, everyone has to agree, happy place where everyone gets along. At the same time it reinforces the important and evolving role of leadership. What I'm starting to try and tease out is what are the qualities of open leadership that we're really getting at? And which of those are core values -- and which are situational reactions?
 
 So far I've been seeing some aspects such as:
 
@@ -24,4 +23,3 @@ So far I've been seeing some aspects such as:
 So what do you think? What are you experiencing? What's different?
 
 Photo credit: [invisible consequential](http://flickr.com/photos/70454000@N00/)
-:::

@@ -3,26 +3,25 @@ title: "The convo I’d like to have: w + ppo + d >> our future"
 date: 2008-11-25T15:17:30
 draft: false
 categories:
-  - "Thoughts"
+ - "Thoughts"
 tags:
-  - "Conversation"
-  - "Design"
-  - "MaRS"
+ - "Conversation"
+ - "Design"
+ - "MaRS"
 aliases:
-  - "/post318/"
+ - "/post318/"
 ---
 
-:::: entry-content
-\*\*\* [SESSION WIKI](http://theconvo.wikispaces.com) NOW LIVE \*\*\*\
+\*\*\* [SESSION WIKI](http://theconvo.wikispaces.com) NOW LIVE \*\*\*
 Those who know me know that this is a persistent theme with me -- and now provoked by [\@josephdee](http://twitter.com/josephdee) -- maybe it's time to take this into a more focused conversation with a few more folks.
 
 **Premise:**
 
-1.  The way of the world is [borked](http://lewwwk.com/post156).
-2.  The web (among other things) is shifting the way we organize resources, ourselves and create new things (**W**)
-3.  From that (in part) is emerging a [new mode of organizing](http://lewwwk.com/?s=mode+org+resource) where the organization itself (not just the product) is peer produced (**PP0**).
-4.  [Design](http://en.wikipedia.org/wiki/Design "Design"){.zem_slink rel="wikipedia"} is the essential process of intentionally creating things (**D**)
-5.  'Un-borking' our world means creating our future through **W+PPO+D**.
+1. The way of the world is [borked](http://lewwwk.com/post156).
+2. The web (among other things) is shifting the way we organize resources, ourselves and create new things (**W**)
+3. From that (in part) is emerging a [new mode of organizing](http://lewwwk.com/?s=mode+org+resource) where the organization itself (not just the product) is peer produced (**PP0**).
+4. [Design](http://en.wikipedia.org/wiki/Design "Design") is the essential process of intentionally creating things (**D**)
+5. 'Un-borking' our world means creating our future through **W+PPO+D**.
 
 **The conversation I'd like to have:**
 
@@ -41,7 +40,3 @@ A couple of us have floated the idea of having a conversation at [MaRS](http://m
 - 'Spiritual' development and the question of "what am I" has a potentially significant role
 - My past work around ['The Great Remix'](http://lewwwk.com/post67) may lend to this too
 
-::: {.zemanta-pixie style="margin-top: 10px; height: 15px;"}
-[![Enhanced by Zemanta](http://img.zemanta.com/zemified_a.png?x-id=dbd37c1b-06f4-43b0-9de2-fb9095b27f40){.zemanta-pixie-img decoding="async" style="border: none; float: right;"}](http://www.zemanta.com/ "Enhanced by Zemanta"){.zemanta-pixie-a}
-:::
-::::

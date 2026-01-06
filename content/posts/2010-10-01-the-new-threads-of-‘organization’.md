@@ -3,30 +3,29 @@ title: "The new threads of ‘Organization’"
 date: 2010-10-01T17:08:22
 draft: false
 categories:
-  - "Thoughts"
+ - "Thoughts"
 tags:
-  - "ChangeMedium"
-  - "epic"
-  - "frontiers"
-  - "Future of Management"
-  - "Gary Hamel"
-  - "John Hagel III"
-  - "John Seely Brown"
-  - "social technology"
-  - "Stafford Beer"
-  - "the great remix"
-  - "The Power of Pull: How Small Moves Smartly Made Can Set Big Things in Motion"
-  - "Umair Haque"
-  - "venturing"
-  - "Viable System Model"
-  - "Web 2.0"
+ - "ChangeMedium"
+ - "epic"
+ - "frontiers"
+ - "Future of Management"
+ - "Gary Hamel"
+ - "John Hagel III"
+ - "John Seely Brown"
+ - "social technology"
+ - "Stafford Beer"
+ - "the great remix"
+ - "The Power of Pull: How Small Moves Smartly Made Can Set Big Things in Motion"
+ - "Umair Haque"
+ - "venturing"
+ - "Viable System Model"
+ - "Web 2.0"
 aliases:
-  - "/post6907/"
+ - "/post6907/"
 ---
 
-:::: entry-content
 <figure class="wp-caption alignright" style="width: 160px">
-<a href="http://www.flickr.com/photos/michaellewkowitz/4671661985/" title="A thread runs through it -  by Michael Lewkowitz, on Flickr"><img src="http://farm5.static.flickr.com/4019/4671661985_b6ec18aece_m.jpg" title="A thread runs through it." decoding="async" width="160" height="240" alt="Thread" /></a>
+<a href="http://www.flickr.com/photos/michaellewkowitz/4671661985/" title="A thread runs through it - by Michael Lewkowitz, on Flickr"><img src="http://farm5.static.flickr.com/4019/4671661985_b6ec18aece_m.jpg" title="A thread runs through it." width="160" height="240" alt="Thread" /></a>
 <figcaption>A thread runs through it.</figcaption>
 </figure>
 
@@ -54,7 +53,7 @@ Information flow is at the heart of Beer's [Viable System Model](http://en.wikip
 
 **Social technology playing a pivotal role**
 
-Before Beer wrote Heart, he led [a Star Trek-esque roject](http://en.wikipedia.org/wiki/Cybersyn) using telex machines in Chile to manage a [centrally planned economy](http://en.wikipedia.org/wiki/Planned_economy "Planned economy"){.zem_slink rel="wikipedia"}. It's hard not to have a chuckle at first glance, but the core principles of the design are at the core of the opportunity in the emerging ecosystem of social technologies we have at our disposal today. In Future, written at the start of [Web 2.0](http://en.wikipedia.org/wiki/Web_2.0 "Web 2.0"){.zem_slink rel="wikipedia"}, Hamel boldly declares "Argue with me if you like, but I'm willing to bet that Management 2.0 is going to look a lot more like Web 2.0". While the novelty of Web 2.0 had worn off a bit by the time Pull came out, the examples of how social technology is enabling people to pursue their passion, connect, and create value are foundational to how organization actually happens today. It is of course about more than the technology, it is about the technology having reached a point where it nurtures, enables and is compatible with the other three themes above. It seems, these technologies are instrumental in allowing organization to happen more naturally, and of course with over 4 billion people connected, at a scale never before imaginable.
+Before Beer wrote Heart, he led [a Star Trek-esque roject](http://en.wikipedia.org/wiki/Cybersyn) using telex machines in Chile to manage a [centrally planned economy](http://en.wikipedia.org/wiki/Planned_economy "Planned economy"). It's hard not to have a chuckle at first glance, but the core principles of the design are at the core of the opportunity in the emerging ecosystem of social technologies we have at our disposal today. In Future, written at the start of [Web 2.0](http://en.wikipedia.org/wiki/Web_2.0 "Web 2.0"), Hamel boldly declares "Argue with me if you like, but I'm willing to bet that Management 2.0 is going to look a lot more like Web 2.0". While the novelty of Web 2.0 had worn off a bit by the time Pull came out, the examples of how social technology is enabling people to pursue their passion, connect, and create value are foundational to how organization actually happens today. It is of course about more than the technology, it is about the technology having reached a point where it nurtures, enables and is compatible with the other three themes above. It seems, these technologies are instrumental in allowing organization to happen more naturally, and of course with over 4 billion people connected, at a scale never before imaginable.
 
 **In summary,** it seems that the technology of organization is undergoing a transformation, enabled by our social technologies, and powered by passionate people. It seems that we naturally are drawn to collaborate around purpose to create a better future, sooner, however that looks to us individually. It seems, even, like a rennaissance of humanity.  Whatever it is though, it is on the upswing.
 
@@ -72,7 +71,3 @@ These are fun times to be alive and engaged.
 
 - [The Power to Pull Prosperity](http://blogs.hbr.org/haque/2010/09/the_power_to_pull_prosperity.html) (blogs.hbr.org)
 
-::: {.zemanta-pixie style="margin-top: 10px; height: 15px;"}
-[![Enhanced by Zemanta](http://img.zemanta.com/zemified_a.png?x-id=6175e7f5-d730-4bd2-bec9-4ed8abdbfa87){.zemanta-pixie-img decoding="async" style="border: none; float: right;"}](http://www.zemanta.com/ "Enhanced by Zemanta"){.zemanta-pixie-a}
-:::
-::::

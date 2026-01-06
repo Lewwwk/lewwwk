@@ -3,20 +3,19 @@ title: "#cmToronto Recap"
 date: 2009-10-29T22:06:41
 draft: false
 categories:
-  - "Events"
+ - "Events"
 tags:
-  - "#cmToronto"
-  - "ChangeMedium"
-  - "OpenMicroBlogging"
-  - "SiG@MaRS"
-  - "SiG@Waterloo"
+ - "#cmToronto"
+ - "ChangeMedium"
+ - "OpenMicroBlogging"
+ - "SiG@MaRS"
+ - "SiG@Waterloo"
 aliases:
-  - "/post500/"
+ - "/post500/"
 ---
 
-:::: entry-content
 <figure class="wp-caption alignright" style="width: 163px">
-<a href="http://www.flickr.com/photos/michaellewkowitz/sets/72157622542758987/"><img src="http://farm4.static.flickr.com/3230/4046265077_5b6f81ed32.jpg" title="Presentations @ #cmToronto" decoding="async" width="163" height="245" alt="Engaged..." /></a>
+<a href="http://www.flickr.com/photos/michaellewkowitz/sets/72157622542758987/"><img src="http://farm4.static.flickr.com/3230/4046265077_5b6f81ed32.jpg" title="Presentations @ #cmToronto" width="163" height="245" alt="Engaged..." /></a>
 <figcaption>Engaged...</figcaption>
 </figure>
 
@@ -38,12 +37,12 @@ Up next, [Kayleigh Platz](http://twitter.com/write_girl), Technical Solutions Pr
 
 The WorldCafe proved the biggest surprise of the day. Participants, many of whom did not know each other previously moved through 3 questions, forming different groups for each question. The questions posed were:
 
-1.  Within the context of the goals of today, what are some of the trends you see developing in the mico-messaging/social change spaces? As a group decide on what you think is the most significant trend.
-2.  With your new group share what your group felt was the most important/significant trend. As a group, discuss your thoughts on what these trends  mean for the future, where are we headed, what becomes possible?
-3.  With the future possibilities in mind, discuss what technology roadblocks exist today that need to be remedied/overcome to achieve this future vision.
+1. Within the context of the goals of today, what are some of the trends you see developing in the mico-messaging/social change spaces? As a group decide on what you think is the most significant trend.
+2. With your new group share what your group felt was the most important/significant trend. As a group, discuss your thoughts on what these trends  mean for the future, where are we headed, what becomes possible?
+3. With the future possibilities in mind, discuss what technology roadblocks exist today that need to be remedied/overcome to achieve this future vision.
 
 <figure class="wp-caption aligncenter" style="width: 350px">
-<a href="http://www.flickr.com/photos/michaellewkowitz/sets/72157622542758987/"><img src="http://farm4.static.flickr.com/3486/4046257745_4c566ac83a.jpg" title="WorldCafe @ #cmToronto" decoding="async" fetchpriority="high" width="350" height="233" alt="Animated..." /></a>
+<a href="http://www.flickr.com/photos/michaellewkowitz/sets/72157622542758987/"><img src="http://farm4.static.flickr.com/3486/4046257745_4c566ac83a.jpg" title="WorldCafe @ #cmToronto" width="350" height="233" alt="Animated..." /></a>
 <figcaption>Animated...</figcaption>
 </figure>
 
@@ -51,15 +50,15 @@ The experience was described as "eerie", "amazing", and "unexpected" due to the 
 
 The hacklab began shortly after noon and was introduced by James Walker as an opportunity to work on infrastructure, applications, or even have extended conversations. The group identified four topics:
 
-1.  [Status.net](http://Status.net), [Open Micro Blogging](http://openmicroblogging.org)
-2.  Relevant Inbox
-3.  Hashtag Directories
-4.  Local Political Engagement
+1. [Status.net](http://Status.net), [Open Micro Blogging](http://openmicroblogging.org)
+2. Relevant Inbox
+3. Hashtag Directories
+4. Local Political Engagement
 
 Development commenced on the "Status.net/Open Micro Blogging" and "Local Political Engagement" topics while a lively conversation emerged around the role ChangeMedium can play in supporting the research community.
 
 <figure class="wp-caption aligncenter" style="width: 500px">
-<a href="http://www.flickr.com/photos/michaellewkowitz/sets/72157622542758987/"><img src="http://farm3.static.flickr.com/2442/4056117997_d8b764f891.jpg" title="Hacking @ #cmToronto" decoding="async" width="500" height="238" alt="Making..." /></a>
+<a href="http://www.flickr.com/photos/michaellewkowitz/sets/72157622542758987/"><img src="http://farm3.static.flickr.com/2442/4056117997_d8b764f891.jpg" title="Hacking @ #cmToronto" width="500" height="238" alt="Making..." /></a>
 <figcaption>Making...</figcaption>
 </figure>
 
@@ -86,7 +85,3 @@ For:
 - event presentations (as available) please visit: [tr.im/cmPresentations](http://tr.im/cmPresentations)
 - event pictures please visit: [tr.im/cmTorontoPics](http://tr.im/cmTorontoPics)
 
-::: {.zemanta-pixie style="margin-top: 10px; height: 15px;"}
-[![Reblog this post \[with Zemanta\]](http://img.zemanta.com/reblog_c.png?x-id=e2606071-5ec0-4503-b663-619eff44399a){.zemanta-pixie-img decoding="async" style="border: none; float: right;"}](http://reblog.zemanta.com/zemified/e2606071-5ec0-4503-b663-619eff44399a/ "Reblog this post [with Zemanta]"){.zemanta-pixie-a}
-:::
-::::

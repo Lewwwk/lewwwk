@@ -3,13 +3,12 @@ title: "Hunches on the evolution of scholarly publishing"
 date: 2010-04-07T18:25:47
 draft: false
 categories:
-  - "Thoughts"
-  - "Ventures"
+ - "Thoughts"
+ - "Ventures"
 aliases:
-  - "/post613/"
+ - "/post613/"
 ---
 
-::: entry-content
 As part of [ChangeMedium](http://changemedium.org) I've been exploring ways to surface and accelerate research related to this emerging system of social technologies. The idea of creating a journal on [the medium of change](http://www.slideshare.net/MichaelLewkowitz/the-medium-of-change-context) came up in our [October event](http://lewwwk.com/post500). What follows are some hunches about the evolution of academic publishing arising from that work. If you are involved or interested in this field, I'd love to get your reactions and perspectives
 
 **Background on research and academic publication.**
@@ -26,7 +25,7 @@ Journals rely primarily on publishing fees and content revenues for their financ
 *Retardation of research.\*
 Peer-review, a central aspect of many academic publications, requires the participation of several researchers actively engaged in the field of research. Where research is novel or part of an emergent domain, this may be particularly difficult. As pioneering researcher's search for alternative pathways to establish their priority in the field such as personal blog and book publishing place even greater demands on their time making them less available or interested in participating. While it is an important component in the research process it also appears to retard the pursuit of novel research and emergent domains.
 
-*Discouragement of participation.*\
+*Discouragement of participation.*
 [Because the process of scholarly pursuit is well documented, it could arguably be engaged in by any competent person willing to do so. The social and procedural dynamics of publication however appear unwelcoming to all but those dependent on publication for their careers. This would appear to limit the participation in scholarly publication to a small subset of those actually able to contribute.]{style="font-style: normal;"}
 
 **Opportunities for evolution.**
@@ -46,13 +45,13 @@ The digital publishing infrastructure coupled with the social and collaborative 
 
 While the above are merely a set of hunches, from an entrepreneurial perspective they point to some interesting opportunities to experiment. While I welcome any interest in experiment regards to the journal on the medium of change, I would also love to hear of any other experiments planned or underway. Some particular areas of interest to me are:
 
-*Research influence and valuation tracking system.*\
+*Research influence and valuation tracking system.*
 [Starting points for this investigation could include exploring opportunities to extend current peer-evaluation methods, identifying opportunities to expand and improve upon citation tracking, and finally opening a new category of public influence and valuation metrics.]{style="font-style: normal;"}
 
 *Peer-participation opportunity map.\*
 Starting points for this investigation could include exploring opportunities to employ existing tools and techniques in each of the primary tasks and phases of research and publication.
 
-*Publishing system specification.*\
+*Publishing system specification.*
 Starting points for this investigation could include scoping a minimum viable system to support this evolution, followed by assessing applicability of existing tools such as [Open Journal Systems](http://pkp.sfu.ca/?q=ojs) from the [Public Knowledge Project](http://pkp.sfu.ca/), and then proceding with [agile development](Agile_software_development) of the necessary features.
 
 As our society quickens its pace of evolution, we would only benefit from a corresponding quickening in the evolution of research and its publication. While research isn't my bag in life, I have come to recognize the powerful role it can play in society.
@@ -63,4 +62,3 @@ As our society quickens its pace of evolution, we would only benefit from a corr
 - [Open access journal -- Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Open_access_journal)
 - [Peer review -- Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Peer_review)
 - [Scholarly method -- Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Scholarly_method)
-:::

@@ -3,18 +3,15 @@ title: "SoCap08 – Alive online"
 date: 2008-10-14T14:43:19
 draft: false
 categories:
-  - "Events"
+ - "Events"
 tags:
-  - "Kevin Jones"
-  - "SoCap08"
+ - "Kevin Jones"
+ - "SoCap08"
 aliases:
-  - "/post263/"
+ - "/post263/"
 ---
 
-::::: entry-content
-::: thumbnail
-[![Social Capital Markets Model](http://img.skitch.com/20081014-c68padjjcg4tsjctsf4x9tqgjp.preview.jpg){.alignright decoding="async" fetchpriority="high" height="218" width="380"}](http://skitch.com/igniter/2wgq/social-capital-markets-model)[]{style="font-size: 10px; font-family: Lucida Grande,Trebuchet,sans-serif,Helvetica,Arial; color: #808080;"}My first impression of [SoCap08](http://socialcapitalmarkets.net) have as much to do with the excellence of the physical event as they do with the virtualization of it.
-:::
+[![Social Capital Markets Model](http://img.skitch.com/20081014-c68padjjcg4tsjctsf4x9tqgjp.preview.jpg){.alignright height="218" width="380"}](http://skitch.com/igniter/2wgq/social-capital-markets-model)[]{style="font-size: 10px; font-family: Lucida Grande,Trebuchet,sans-serif,Helvetica,Arial; color: #808080;"}My first impression of [SoCap08](http://socialcapitalmarkets.net) have as much to do with the excellence of the physical event as they do with the virtualization of it.
 
 First the physical event. There are over 600 participants from the usual people but also from more mainstream financial players that are seriously starting to get their toes wet. I first heard about this a year ago when Kevin Jones of [GoodCapital](http://goodcap.net) was just starting to pull it together and I must say they did an extraordinary job of convening the community in a big way.
 
@@ -26,7 +23,3 @@ Take a look and let me know what you think -- if you aren't here in person are t
 
 ### Live Blog Feed
 
-::: {.zemanta-pixie style="margin-top: 10px; height: 15px;"}
-[![Reblog this post \[with Zemanta\]](http://img.zemanta.com/reblog_e.png?x-id=217a224a-7bac-4984-8fcd-5cf560d558d9){.zemanta-pixie-img decoding="async" style="border: medium none ; float: right;"}](http://reblog.zemanta.com/zemified/217a224a-7bac-4984-8fcd-5cf560d558d9/ "Zemified by Zemanta"){.zemanta-pixie-a}
-:::
-:::::

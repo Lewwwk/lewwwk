@@ -3,18 +3,17 @@ title: "Alpha, Beta… Public"
 date: 2009-03-17T14:20:37
 draft: false
 categories:
-  - "Thoughts"
-  - "Ventures"
+ - "Thoughts"
+ - "Ventures"
 tags:
-  - "#threadio"
-  - "alpha"
-  - "beta"
+ - "#threadio"
+ - "alpha"
+ - "beta"
 aliases:
-  - "/post402/"
+ - "/post402/"
 ---
 
-:::: entry-content
-In this world where web apps can be built, launched and iterated quickly we're seeing more and more of the [perpetual beta](http://en.wikipedia.org/wiki/Perpetual_beta "Perpetual beta"){.zem_slink rel="wikipedia"}. Even most of googles apps carry the 'beta' tag long past when my usage experience seems to be bug free.
+In this world where web apps can be built, launched and iterated quickly we're seeing more and more of the [perpetual beta](http://en.wikipedia.org/wiki/Perpetual_beta "Perpetual beta"). Even most of googles apps carry the 'beta' tag long past when my usage experience seems to be bug free.
 
 One side of me says, forget the distinction... of course it's always beta... if it's not it's not evolving. Another side, says it's about managing expectations, as in "Don't throw things at your computer (or me) if this doesn't work as you want it to."
 
@@ -25,6 +24,3 @@ One side of me says, forget the distinction... of course it's always beta... if 
 
 For sure we'll be going live early. Earlier than I'll probably be comfortable with but I keep finding that every time I push something to the public I get benefits that outweigh the costs. I wonder what's 'too early' -- I just hope we don't find out.
 
-::: {.zemanta-pixie style="margin-top: 10px; height: 15px;"}
-:::
-::::

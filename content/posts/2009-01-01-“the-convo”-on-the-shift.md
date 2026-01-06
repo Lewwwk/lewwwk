@@ -3,18 +3,17 @@ title: "“The Convo” on the shift"
 date: 2009-01-01T17:11:13
 draft: false
 categories:
-  - "Events"
+ - "Events"
 tags:
-  - "convo"
-  - "convo01"
-  - "MaRS"
+ - "convo"
+ - "convo01"
+ - "MaRS"
 aliases:
-  - "/post352/"
+ - "/post352/"
 ---
 
-::: entry-content
 <figure class="wp-caption alignright" style="width: 234px">
-<a href="http://www.flickr.com/photos/rycoleman/3101993357/" title="Convo01-7579.jpg by Ryan Coleman, on Flickr"><img src="http://farm4.static.flickr.com/3254/3101993357_475ea51179.jpg" decoding="async" fetchpriority="high" width="234" height="350" alt="Convo01-7579.jpg" /></a>
+<a href="http://www.flickr.com/photos/rycoleman/3101993357/" title="Convo01-7579.jpg by Ryan Coleman, on Flickr"><img src="http://farm4.static.flickr.com/3254/3101993357_475ea51179.jpg" width="234" height="350" alt="Convo01-7579.jpg" /></a>
 <figcaption>photo by: Ryan Coleman</figcaption>
 </figure>
 
@@ -40,4 +39,3 @@ While I'm at it, there were some other aha's for me in working up to the convo -
 There are a few other follow-ups on the wiki. Feel free to jump in. These are exciting times where the creative discplines will rule and participation by doing makes the world we want.
 
 PS... huge thanks again to [Joseph Dee](http://twitter.com/josephdee) for suggesting we do it, [Ryan Coleman](http://twitter.com/ryancoleman) for bringing his [vizthink](http://vizthink.com) skills and facilitating, and [MaRS](http://marsdd.com) for hosting.
-:::

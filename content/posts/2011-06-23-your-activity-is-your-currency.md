@@ -3,24 +3,21 @@ title: "Your Activity is Your Currency"
 date: 2011-06-23T15:44:20
 draft: false
 categories:
-  - "Thoughts"
+ - "Thoughts"
 tags:
-  - "#socent"
-  - "#sofinance"
-  - "better future sooner"
-  - "currency"
-  - "epic"
+ - "#socent"
+ - "#sofinance"
+ - "better future sooner"
+ - "currency"
+ - "epic"
 aliases:
-  - "/post7450/"
+ - "/post7450/"
 ---
 
-::::: entry-content
-::: {.zemanta-img style="margin: 1em; display: block;"}
 <figure class="wp-caption alignright" style="width: 151px">
-<a href="http://commons.wikipedia.org/wiki/File:Claudius_II_coin_%28colourised%29.png"><img src="http://upload.wikimedia.org/wikipedia/commons/3/3b/Claudius_II_coin_%28colourised%29.png" title="Standard Catalog of World Coins" decoding="async" width="151" height="147" alt="Standard Catalog of World Coins" /></a>
+<a href="http://commons.wikipedia.org/wiki/File:Claudius_II_coin_%28colourised%29.png"><img src="http://upload.wikimedia.org/wikipedia/commons/3/3b/Claudius_II_coin_%28colourised%29.png" title="Standard Catalog of World Coins" width="151" height="147" alt="Standard Catalog of World Coins" /></a>
 <figcaption>Image via Wikipedia</figcaption>
 </figure>
-:::
 
 At [Epic](http://epic.io) we're introducing Epicredits as a currency to help you reward and accomplish what matters to you. You can [signup now](http://makeitepic.com/r/av9iWUHOTP%20) to start collecting and get notified when it's live later this year.
 
@@ -36,7 +33,3 @@ While we're still in development, if you are interested, you can get a headstart
 
 Our activity is our currency. Let's invest it in building a better future sooner. Let's [make it epic](http://makeitepic.com/r/av9iWUHOTP%20)!
 
-::: {.zemanta-pixie style="margin-top: 10px; height: 15px;"}
-[![Enhanced by Zemanta](http://img.zemanta.com/zemified_a.png?x-id=8e3e8ca9-5a2d-400e-bfd3-59ae77d7e263){.zemanta-pixie-img decoding="async" style="border: none; float: right;"}](http://www.zemanta.com/ "Enhanced by Zemanta"){.zemanta-pixie-a}
-:::
-:::::

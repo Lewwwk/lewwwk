@@ -3,12 +3,11 @@ title: "Coordinating residential energy efficiency, onchain."
 date: 2024-01-30T18:38:27
 draft: false
 categories:
-  - "Uncategorized"
+ - "Uncategorized"
 aliases:
-  - "/post8067/"
+ - "/post8067/"
 ---
 
-::: entry-content
 I've been close to the challenges of shifting the built environment toward NetZero for a couple of decades now. First in venture capital, then as a founder in the residential thermal energy domain, and since as a board member of Windfall Ecology Centre.
 
 The goal has always been to simplify and incentivize changes in behaviour and technology adoption. Turns out, massively multiplayer coordination challenges can prove to be incredibly sticky.
@@ -37,9 +36,9 @@ Advances in blockchain-based smart contracts, data privacy, and incentive mechan
 
 Using Windfall Centre's  v-HEAT (Virtual Home Energy Assessment Tool) project as a reference case -- which is providing virtual energy audits and efficiency labels to 200,000 homes in Durham region, Canada -- we are exploring the design of a blockchain-based protocol that would provide every building with its own blockchain-based ledger that could:
 
-1.  hold proofs of audits and retrofits; 
-2.  allow owners and occupants to provide access to energy data to verify efficiency outcomes; 
-3.  allow incentive, finance, and energy conservation measure providers to design and deploy tailored retrofit upgrade offers and conservation incentives directly to homeowners.
+1. hold proofs of audits and retrofits; 
+2. allow owners and occupants to provide access to energy data to verify efficiency outcomes; 
+3. allow incentive, finance, and energy conservation measure providers to design and deploy tailored retrofit upgrade offers and conservation incentives directly to homeowners.
 
 To design this protocol, we are actively engaging the network of stakeholders representing different players in the energy efficiency audit and retrofit process from across Durham Region. This genuine community engagement is central to how we are developing the protocol. It is a crucial component of addressing the fundamental coordination challenges in this system.
 
@@ -54,4 +53,3 @@ The Windfall Protocol community will play an important role as we explore the de
 ------------------------------------------------------------------------
 
 Written by Michael Lewkowitz, with thanks to Brent Kopperson, Rowan Yeoman, Jeff Emmett, Jessica Zartler, and rathermercurial.eth for edits and contributions.
-:::

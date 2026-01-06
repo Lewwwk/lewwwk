@@ -3,15 +3,14 @@ title: "Stand up for Mothering!"
 date: 2010-03-05T22:17:59
 draft: false
 categories:
-  - "Thoughts"
+ - "Thoughts"
 tags:
-  - "ARM"
-  - "mothering"
+ - "ARM"
+ - "mothering"
 aliases:
-  - "/post587/"
+ - "/post587/"
 ---
 
-::: entry-content
 If mothering isn't one of the more important things that shape our society and our future, I don't know what is.
 
 Somehow though I think it gets taken for granted. That couldn't be more clear from the announcement that [the leading organization that researches the topic](http://www.yorku.ca/arm/) is [being forced to close](http://www.yorku.ca/arm/ARMLetter.pdf). How is it that an organization like this cannot get more support?
@@ -35,4 +34,3 @@ Yes, even that helps as it's a channel to broadcast and connect for the next act
 So please do. And please spread the word. For mothers and the future of mothering.
 
 P.S. Thanks [Mom](http://twitter.com/lewkessig) for everything you've done to bring me into this world and guide me into who I am.
-:::

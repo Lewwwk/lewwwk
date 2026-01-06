@@ -3,24 +3,21 @@ title: "Venturing on the Frontiers – A simple guide."
 date: 2008-02-11T18:50:00
 draft: false
 categories:
-  - "Uncategorized"
+ - "Uncategorized"
 tags:
-  - "frontiers"
-  - "model"
-  - "principles"
-  - "venture"
-  - "venturing"
-  - "vfi1"
+ - "frontiers"
+ - "model"
+ - "principles"
+ - "venture"
+ - "venturing"
+ - "vfi1"
 aliases:
-  - "/post61/"
+ - "/post61/"
 ---
 
-:::: entry-content
-::: {style="float: right; margin-left: 10px; margin-bottom: 10px;"}
-[![](http://farm3.static.flickr.com/2135/2247912561_ec56e3d2f5_m.jpg){decoding="async" style="border: 2px solid rgb(0, 0, 0);"}](http://www.flickr.com/photos/michaellewkowitz/2247912561/ "photo sharing")\
-[ [Venturing on the Frontiers -- A simple guide.](http://www.flickr.com/photos/michaellewkowitz/2247912561/)\
+[![](http://farm3.static.flickr.com/2135/2247912561_ec56e3d2f5_m.jpg){ style="border: 2px solid rgb(0, 0, 0);"}](http://www.flickr.com/photos/michaellewkowitz/2247912561/ "photo sharing")
+[ [Venturing on the Frontiers -- A simple guide.](http://www.flickr.com/photos/michaellewkowitz/2247912561/)
 Originally uploaded by [Michael Lewkowitz](http://www.flickr.com/people/michaellewkowitz/) ]{style="margin-top: 0px;font-size:0;"}
-:::
 
 Venturing on the frontiers is about the early stages of taking on big challenges. It's a space where conventional models to planning and management prove ineffective. It's the place where entrepeneurs trust their 'gut' and face the challenges with an unrelenting push forward. And it's the place from which the greatest change can come about.
 
@@ -34,4 +31,3 @@ I've been tapping my own experience, researching into systems science and talkin
 I've published the image under a creative commons license so please feel free to use and build from it accordingly. And as always, this is but a snapshot of understanding and bound to evolve... so please do get in touch with your reflections, experiences, and suggestions.
 
 I'll publish future posts on the implications for ventures and venture investors who are pushing the frontiers. Don't expect magic bullets, but rather a prompting of some productive questions. If anything this has reminded me is that there are no answers, only questions... and asking the right ones can make all the difference.
-::::

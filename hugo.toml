@@ -11,7 +11,16 @@ theme = 'PaperMod'
   ShowBreadCrumbs = false
   ShowCodeCopyButtons = true
   ShowToc = false
-  defaultTheme = "auto"
+  defaultTheme = "light"
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ["title", "permalink", "summary", "content"]
 
   [params.homeInfoParams]
     Title = "Lewwwk"
@@ -30,13 +39,17 @@ theme = 'PaperMod'
     name = "Tags"
     url = "/tags/"
     weight = 30
+  [[menu.main]]
+    name = "Search"
+    url = "/search/"
+    weight = 40
 
 [taxonomies]
   category = "categories"
   tag = "tags"
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "JSON"]
 
 [build]
   writeStats = true

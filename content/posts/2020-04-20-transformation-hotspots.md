@@ -3,16 +3,15 @@ title: "Transformation Hotspots"
 date: 2020-04-20T17:02:26
 draft: false
 categories:
-  - "Uncategorized"
+ - "Uncategorized"
 tags:
-  - "transformation"
-  - "transition"
-  - "venture"
+ - "transformation"
+ - "transition"
+ - "venture"
 aliases:
-  - "/post7710/"
+ - "/post7710/"
 ---
 
-::: entry-content
 At [Possibilian](https://possibilian.vc/) we are interested in how ventures can create a better future, a future that is more vibrant, prosperous, and sustainable. In this post, we're highlighting a few areas where we see extraordinary opportunity for progress in the next few years as we emerge from the pandemic. While these overlap with existing transition pathways, and will evolve over time, they focus in on certain characteristics of the types of innovations we think have particular momentum and potential for transformative impact.
 
 We call them Transformation Hotspots
@@ -103,6 +102,5 @@ The pandemic provides a working example of the types systemic shocks and risks o
 - [How we identify transformative potential in ventures](https://lewwwk.com/post7690)
 
 <figure class="wp-block-image size-large">
-<!-- Image unavailable -->
+<img src="/images/recovered/2020-04-20-transformation-landscape.png" alt="Possibilian: Transition and Transformation Landscape" />
 </figure>
-:::

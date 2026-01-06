@@ -3,25 +3,20 @@ title: "“I am not a tool” – Twitter’s inflection of web and society."
 date: 2009-08-10T21:48:30
 draft: false
 categories:
-  - "Thoughts"
+ - "Thoughts"
 tags:
-  - "Mobile"
-  - "Public micro-messaging"
-  - "society"
-  - "Twitter"
-  - "Web"
+ - "Mobile"
+ - "Public micro-messaging"
+ - "society"
+ - "Twitter"
+ - "Web"
 aliases:
-  - "/post464/"
+ - "/post464/"
 ---
 
-:::::: entry-content
-:::: {.zemanta-img style="margin:1em;display:block"}
-::: {}
 
-[![Points of inflection.](http://upload.wikimedia.org/wikipedia/commons/2/29/Wag_85-1_points_inflection.jpg "Points of inflection."){decoding="async" height="98" width="152"}](http://commons.wikipedia.org/wiki/Image:Wag_85-1_points_inflection.jpg)
-:   Image via [Wikipedia](http://commons.wikipedia.org/wiki/Image:Wag_85-1_points_inflection.jpg)
-:::
-::::
+[![Points of inflection.](http://upload.wikimedia.org/wikipedia/commons/2/29/Wag_85-1_points_inflection.jpg "Points of inflection."){ height="98" width="152"}](http://commons.wikipedia.org/wiki/Image:Wag_85-1_points_inflection.jpg)
+: Image via [Wikipedia](http://commons.wikipedia.org/wiki/Image:Wag_85-1_points_inflection.jpg)
 
 *Update (090811-20:51ET): The end felt incomplete -- some more detail added.*
 
@@ -69,7 +64,3 @@ It is instead:
 
 And in the end it's just  the most simple, human, public expression we have. Who would have thought there could be so much in so little?
 
-::: {.zemanta-pixie style="margin-top: 10px; height: 15px;"}
-[![Reblog this post \[with Zemanta\]](http://img.zemanta.com/reblog_c.png?x-id=11d507c8-eecf-478b-8e62-85c00c8a7bcc){.zemanta-pixie-img decoding="async" style="border: none; float: right;"}](http://reblog.zemanta.com/zemified/11d507c8-eecf-478b-8e62-85c00c8a7bcc/ "Reblog this post [with Zemanta]"){.zemanta-pixie-a}
-:::
-::::::

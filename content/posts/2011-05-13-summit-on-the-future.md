@@ -3,13 +3,12 @@ title: "Summit on the Future"
 date: 2011-05-13T06:09:22
 draft: false
 categories:
-  - "Thoughts"
+ - "Thoughts"
 aliases:
-  - "/post7451/"
+ - "/post7451/"
 ---
 
-::: entry-content
-[![IMG_1599](http://farm6.static.flickr.com/5019/5502283115_081881c1da.jpg){.aligncenter decoding="async" fetchpriority="high" height="233" width="350"}](http://www.flickr.com/photos/michaellewkowitz/5502283115/ "IMG_1599 by Michael Lewkowitz, on Flickr")
+[![IMG_1599](http://farm6.static.flickr.com/5019/5502283115_081881c1da.jpg){.aligncenter height="233" width="350"}](http://www.flickr.com/photos/michaellewkowitz/5502283115/ "IMG_1599 by Michael Lewkowitz, on Flickr")
 
 The [future of organization](http://lewwwk.com/post6907) has arrived. Like with sustainable coffee, cleantech, and the social trifecta (entrepreneurship/finance/innovation) before,  I've noticed the shift in conversation from "no that will never happen/it must be stopped at all costs" to, "it's happening or inevitable/how can I play". It's the shift from an avoidable future to an inevitable reality.
 
@@ -39,4 +38,3 @@ Whether it's a conversation, a summit, a series or something other... here's a f
 - enlightened ones...
 
 While I know it's not me to hold this space, I hope someone sees the opportunity in making it happen. We're at the front of generation of opportunity with an opportunity that will shape our civilization into the future.
-:::

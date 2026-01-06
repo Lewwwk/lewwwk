@@ -3,22 +3,21 @@ title: "Higlights from “Heart of Enterprise” — the Viable System Model"
 date: 2007-10-25T20:12:00
 draft: false
 categories:
-  - "Uncategorized"
+ - "Uncategorized"
 aliases:
-  - "/post40/"
+ - "/post40/"
 ---
 
-::: entry-content
-[\
+[
 I've been working my way through this tome for a few weeks and have had a number of conversations around it. It's by far the most valuable piece of work I've ever encountered on organizational design --- and for me a critical model in ventures that are on the venturing frontier (early concept stage and/or systemic co-creation --- see graph below).]{style="font-size:100%;"}
 
-[\
-![Efficacy of venturing and investing models and practices](http://static.flickr.com/2162/1748323488_3073d7a831_m.jpg){decoding="async"}\
+[
+![Efficacy of venturing and investing models and practices](http://static.flickr.com/2162/1748323488_3073d7a831_m.jpg)
 ](http://www.flickr.com/photos/60514480@N00/1748323488/ "Efficacy of venturing and investing models and practices")
 
 Written by [Stafford Beer](http://en.wikipedia.org/wiki/Stafford_Beer), [this book](http://www.amazon.ca/Heart-Enterprise-Stafford-Beer/dp/0471948373/ref=sr_1_1?ie=UTF8&s=books&qid=1193331410&sr=8-1) is a thorough walk-through of the [Viable System Model](http://en.wikipedia.org/wiki/Viable_System_Model).
 
-[[![The Heart of Enterprise](http://ecx.images-amazon.com/images/I/41341FC25NL._AA240_.jpg){#prodImage border="0" decoding="async" fetchpriority="high" height="240" width="240"}](http://www.amazon.ca/Heart-Enterprise-Stafford-Beer/dp/0471948373/ref=sr_1_1?ie=UTF8&s=books&qid=1193331410&sr=8-1){onclick="return amz_js_PopWin(this.href,'AmazonHelp','width=700,height=600,resizable=1,scrollbars=1,toolbar=1,status=1');" rel="noopener noreferrer" target="AmazonHelp"}[![](http://farm3.static.flickr.com/2016/1747561691_617ea5a1cc.jpg?v=0){.reflect decoding="async" height="500" onload="show_notes_initially();" width="327"}](http://www.amazon.ca/Heart-Enterprise-Stafford-Beer/dp/0471948373/ref=sr_1_1?ie=UTF8&s=books&qid=1193331410&sr=8-1){onclick="return amz_js_PopWin(this.href,'AmazonHelp','width=700,height=600,resizable=1,scrollbars=1,toolbar=1,status=1');" rel="noopener noreferrer" target="AmazonHelp"}]{style="font-size:100%;"}
+[[![The Heart of Enterprise](http://ecx.images-amazon.com/images/I/41341FC25NL._AA240_.jpg){#prodImage height="240" width="240"}](http://www.amazon.ca/Heart-Enterprise-Stafford-Beer/dp/0471948373/ref=sr_1_1?ie=UTF8&s=books&qid=1193331410&sr=8-1){onclick="return amz_js_PopWin(this.href,'AmazonHelp','width=700,height=600,resizable=1,scrollbars=1,toolbar=1,status=1');" rel="noopener noreferrer" target="AmazonHelp"}[![](http://farm3.static.flickr.com/2016/1747561691_617ea5a1cc.jpg?v=0){.reflect height="500" onload="show_notes_initially();" width="327"}](http://www.amazon.ca/Heart-Enterprise-Stafford-Beer/dp/0471948373/ref=sr_1_1?ie=UTF8&s=books&qid=1193331410&sr=8-1){onclick="return amz_js_PopWin(this.href,'AmazonHelp','width=700,height=600,resizable=1,scrollbars=1,toolbar=1,status=1');" rel="noopener noreferrer" target="AmazonHelp"}]{style="font-size:100%;"}
 
 The key principles can be found [here](http://en.wikipedia.org/wiki/Viable_System_Model#Rules_for_the_Viable_System), but will not likely be that helpful without gaining an understanding of the language being used -- which is a big part of why this book is so dense. It's also, I think, necessary though to get at this topic in a way that is freed from the conventions that most of us have learned and understand about management and venturing --- those same conventions that seem to fail us the earlier or more systemically focused the ventures are.
 
@@ -98,10 +97,10 @@ he has the motive, and has cultivated the style, necessary to transduce his own 
 
 "Improvement in the management of complicated systems will not occur until managers give up the dysfunctional concept of causality, and the search for the unique case."
 
-Summarizing a few paragraphs here on what it means in terms of some measure for the system to say 'I am all right':\
--- we [normally ]{style="font-style: italic;"}\<e.g. produce\>... speaks to status quo and is measured as ACTUALITY (actuality)\
--- our [plan]{style="font-style: italic;"}... speaks to intention and is measured as CAPABILITY\
--- we [wish we could]{style="font-style: italic;"}... expresses a will to advance and is measured as POTENTIALITY.\
+Summarizing a few paragraphs here on what it means in terms of some measure for the system to say 'I am all right':
+-- we [normally ]{style="font-style: italic;"}\<e.g. produce\>... speaks to status quo and is measured as ACTUALITY (actuality)
+-- our [plan]{style="font-style: italic;"}... speaks to intention and is measured as CAPABILITY
+-- we [wish we could]{style="font-style: italic;"}... expresses a will to advance and is measured as POTENTIALITY.
 -- Ratios of those then indicate degrees of stability: actuality to capability is PRODUCTIVITY; capability to potentiality is LATENCY; and actuality to potentiality is PERFORMANCE.
 
 "... the (senior) manager... must [listen]{style="font-weight: bold;"} to himself doing the job. Here is closure for the viable system. It also is a form of measurement. But it is self-referential, and there is no objective measure for a measurement so defined. In the viable system called 'the human being', this function is usually called [conscience."]{style="font-style: italic;"}
@@ -178,7 +177,5 @@ Summarizing a few paragraphs here on what it means in terms of some measure for 
 
 "The heart of the enterprise is embodied in its own people. Consultants cannot catalyse interactions that do not exist, or are persistently and perversely held at bay."
 
-"[Life is a process]{style="font-style: italic;"}, not a justification."\
-
-Blogged with [Flock](http://www.flock.com/blogged-with-flock "Flock"){rel="noopener noreferrer" target="_new"}
-:::
+"[Life is a process]{style="font-style: italic;"}, not a justification."
+Blogged with [Flock](http://www.flock.com/blogged-with-flock "Flock")

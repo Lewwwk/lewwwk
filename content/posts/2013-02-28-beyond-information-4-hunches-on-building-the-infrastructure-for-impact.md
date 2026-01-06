@@ -3,12 +3,11 @@ title: "Beyond information: 4 hunches on building the infrastructure for impact"
 date: 2013-02-28T15:57:35
 draft: false
 categories:
-  - "Thoughts"
+ - "Thoughts"
 aliases:
-  - "/post7556/"
+ - "/post7556/"
 ---
 
-::: entry-content
 Eric Henderson of [Markets for Good](http://www.marketsforgood.org) recently asked me what was needed to [build an information infrastructure for the social sector](http://www.marketsforgood.org/markets-for-good-upgrading-the-infrastructure-for-social-change/). Their vision is ambitious and important, and with the right approach it could transform how change happens.  Here are my hunches about what's required, and what we're already doing to make it happen.
 
 **1. Focus on impact**
@@ -52,4 +51,3 @@ What has been sparked by Markets for Good is an incredible opportunity, and whil
 \*\*\*
 
 *Special thanks to [Tim Draimin](https://twitter.com/timdraimin), [Michael Soto](https://twitter.com/misoca), and [Scott Wofford](https://twitter.com/scottwofford) for their feedback on earlier drafts of this post.*
-:::

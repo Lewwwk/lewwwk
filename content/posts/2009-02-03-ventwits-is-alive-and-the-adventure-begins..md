@@ -3,17 +3,16 @@ title: "VenTwits is alive and the adventure begins."
 date: 2009-02-03T21:00:31
 draft: false
 categories:
-  - "Thoughts"
+ - "Thoughts"
 tags:
-  - "^ventwits"
-  - "#svc"
-  - "Howard Lindzon"
-  - "Twitter"
+ - "^ventwits"
+ - "#svc"
+ - "Howard Lindzon"
+ - "Twitter"
 aliases:
-  - "/post371/"
+ - "/post371/"
 ---
 
-:::: entry-content
 This really began back at the [StartupEmpire conference](http://startupempire.ca/) on November 14th, 2008 in the midst of [Howard Lindzon](http://howardlindzon.com)'s [StockTwits](http://StockTwits.com) presentation.  Today, [VenTwits](http://VenTwits.com) ([\^VenTwits](http://ventwits.com/ventures/%5Eventwits)) is live as a the first property in a series of initiatives to help things happen and create the world we want.
 
 [![](/images/ventwits-puagku.jpg)](/images/ventwits-puagku.jpg)Developed by [Shouldless Inc.](http://shldlss.com) ([\^shldlss](http://ventwits.com/ventures/%5Eshldlss)), VenTwits is a site for people building things they care about. We believe there is something special about communications that happen in public, 140 characters at a time. It seems to encourage a unique breadth and practicality of engagement such as the [#hohoto](http://hohoto.ca) party in Toronto. #hohoto emerged through [Twitter](http://Twitter.com) (see [SlideShare preso](http://www.slideshare.net/MichaelLewkowitz/peer-production-primer-presentation)) and within 18 days of the first mention was sold-out to over 600 people, raised \$25,000 in cash and 2 tonnes of food for Toronto's [Daily Bread Foodbank](http://www.dailybread.ca/). All this without any one leader or cash investment -- rather it leveraged parallel leadership from over a dozen people and the contributions of countless more. What if we could leverage what happened there?
@@ -28,7 +27,3 @@ We're inspired by the potential of people coming together and contributing to th
 
 Please jump in and give it a try. And if you have any [feedback](http://ventwits.com/ventures/%5Eventwits/needs/!feedback) or want to get in touch -- please do.
 
-::: {.zemanta-pixie style="margin-top: 10px; height: 15px;"}
-[![Reblog this post \[with Zemanta\]](http://img.zemanta.com/reblog_c.png?x-id=2c302289-11bb-499f-9ccc-c8dcc6a63693){.zemanta-pixie-img decoding="async" style="border: medium none; float: right;"}](http://reblog.zemanta.com/zemified/2c302289-11bb-499f-9ccc-c8dcc6a63693/ "Zemified by Zemanta"){.zemanta-pixie-a}
-:::
-::::

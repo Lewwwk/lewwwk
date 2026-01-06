@@ -3,22 +3,19 @@ title: "Obama – the mindset tips."
 date: 2008-11-05T15:00:48
 draft: false
 categories:
-  - "Events"
-  - "Thoughts"
+ - "Events"
+ - "Thoughts"
 tags:
-  - "macroshift"
-  - "obama"
+ - "macroshift"
+ - "obama"
 aliases:
-  - "/post302/"
+ - "/post302/"
 ---
 
-::::: entry-content
-::: {.zemanta-img .zemanta-action-click}
 <figure class="wp-caption alignright" style="width: 214px">
-<a href="http://www.flickr.com/photos/84992687@N00/3004717988"><img src="http://farm4.static.flickr.com/3004/3004717988_06761377b7_m.jpg" title="the 44th President of the United States...Bara..." decoding="async" fetchpriority="high" width="214" height="240" alt="the 44th President of the United States...Bara..." /></a>
+<a href="http://www.flickr.com/photos/84992687@N00/3004717988"><img src="http://farm4.static.flickr.com/3004/3004717988_06761377b7_m.jpg" title="the 44th President of the United States...Bara..." width="214" height="240" alt="the 44th President of the United States...Bara..." /></a>
 <figcaption>Image by jmtimages via Flickr</figcaption>
 </figure>
-:::
 
 A major moment in history last night -- a shift in the trajectory of our civilization.
 
@@ -28,7 +25,7 @@ It's about a shift in mindset in the most dominant society in our civilization. 
 
 911, Katrina, and the Financial Crisis successively destabilized this society's attachment to the mindset of independence. The election and yesterday's results give us our most concrete example of a society shifting toward a mindset of interdependence.
 
-Ervin Laszlo layed out the shift in mindset needed for our civilization in hisotrical terms about 10 years ago. He described it as a shfit from extensive evolution (materialistic, conquest and consumption oriented) to intensive evlolution (centred on human development and development of human consciousness). It includes shifts:
+Ervin Laszlo layed out the shift in mindset needed for our civilization in historical terms about 10 years ago. He described it as a shfit from extensive evolution (materialistic, conquest and consumption oriented) to intensive evlolution (centred on human development and development of human consciousness). It includes shifts:
 
 - competition -\> reconciliation and partnership
 - greed and scarcity -\> sufficiency and caring
@@ -57,7 +54,3 @@ This small moment represents so much, and if it represents the tip in mindset I 
 
 I hope so because [he described the alternative as 'doomsday'](http://lewwwk.com/post42). (more posts on Ervin Laszlo's Macroshift [here](http://lewwwk.com/?s=macroshift))
 
-::: {.zemanta-pixie style="margin-top: 10px; height: 15px;"}
-[![Reblog this post \[with Zemanta\]](http://img.zemanta.com/reblog_c.png?x-id=030a9502-3719-495e-8860-e445019fceb3){.zemanta-pixie-img decoding="async" style="border: medium none; float: right;"}](http://reblog.zemanta.com/zemified/030a9502-3719-495e-8860-e445019fceb3/ "Zemified by Zemanta"){.zemanta-pixie-a}
-:::
-:::::

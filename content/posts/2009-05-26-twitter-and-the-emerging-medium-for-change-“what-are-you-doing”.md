@@ -3,30 +3,25 @@ title: "Twitter and the emerging medium for change -> “What are you doing?”"
 date: 2009-05-26T21:08:12
 draft: false
 categories:
-  - "Thoughts"
-  - "Ventures"
+ - "Thoughts"
+ - "Ventures"
 tags:
-  - "#4change"
-  - "#socent"
-  - "Twitter"
+ - "#4change"
+ - "#socent"
+ - "Twitter"
 aliases:
-  - "/post436/"
+ - "/post436/"
 ---
 
-:::::: entry-content
 > Twitter is giving rise to the most accessible, participatory public medium in history. The implications for social change, innovation, and entrepreneurship are huge but hardly explored. In the coming paragraphs I explain what I see and call out to you, to all, to help surface what's happening and understand how it can help us create the world we want. I care because [we need change like never before.](http://lewwwk.com/post156) If that matters to you too, please read, comment, and share. Let's see where this goes.
 
-:::: {.zemanta-img .zemanta-action-dragged style="margin: 1em; display: block;"}
-::: {}
 
-[![dawn flare](http://farm1.static.flickr.com/99/268955776_64bf6c368c_m.jpg "dawn flare"){decoding="async" height="240" width="162"}](http://farm1.static.flickr.com/99/268955776_64bf6c368c_m.jpg)
+[![dawn flare](http://farm1.static.flickr.com/99/268955776_64bf6c368c_m.jpg "dawn flare"){ height="240" width="162"}](http://farm1.static.flickr.com/99/268955776_64bf6c368c_m.jpg)
 
-:   
-:::
-::::
+: 
 
 What's going on with Twitter ([now at over 32m users -- up from just 1.6m a year ago](http://online.wsj.com/article/SB124329188281552341.html)) is the emergence of a new medium based on the public micro-message -- **the most accessible, participatory public medium in history.\**
-\
+
 Think about it. That's huge.
 
 It's the potential for 4B people to post, read, and respond to each other. **Neither TV, radio, telephone, email, or the web have the same potential in terms of accessibility and participation.**
@@ -45,7 +40,3 @@ Already there are some great starts at the infrastructure ([SMOB](http://smob.si
 
 **So let's get to it.** This medium is here to stay and the potential for change making is profound. What have you seen? What do you think? ["What are you doing?"](http://twitter.com) **Please do comment, share and let's take this forward.**
 
-::: {.zemanta-pixie style="margin-top: 10px; height: 15px;"}
-[![Reblog this post \[with Zemanta\]](http://img.zemanta.com/reblog_c.png?x-id=725cb9f8-a61e-4b3e-8472-c3ac1321cda5){.zemanta-pixie-img decoding="async" style="border: medium none; float: right;"}](http://reblog.zemanta.com/zemified/725cb9f8-a61e-4b3e-8472-c3ac1321cda5/ "Reblog this post [with Zemanta]"){.zemanta-pixie-a}
-:::
-::::::

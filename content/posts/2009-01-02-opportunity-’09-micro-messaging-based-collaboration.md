@@ -3,22 +3,19 @@ title: "Opportunity ’09: micro-messaging based collaboration"
 date: 2009-01-02T18:37:17
 draft: false
 categories:
-  - "Ventures"
+ - "Ventures"
 tags:
-  - "^grouptwits"
-  - "^ventwits"
-  - "#svc"
+ - "^grouptwits"
+ - "^ventwits"
+ - "#svc"
 aliases:
-  - "/post355/"
+ - "/post355/"
 ---
 
-::::: entry-content
-::: zemanta-img
 <figure class="wp-caption alignright" style="width: 182px">
-<a href="http://commons.wikipedia.org/wiki/Image:Capsicum0.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Capsicum0.jpg/202px-Capsicum0.jpg" title="A ripe red jalapeño cut open to show the seeds" decoding="async" width="182" height="242" alt="A ripe red jalapeño cut open to show the seeds" /></a>
+<a href="http://commons.wikipedia.org/wiki/Image:Capsicum0.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Capsicum0.jpg/202px-Capsicum0.jpg" title="A ripe red jalapeño cut open to show the seeds" width="182" height="242" alt="A ripe red jalapeño cut open to show the seeds" /></a>
 <figcaption>Image via Wikipedia</figcaption>
 </figure>
-:::
 
 My focus heading into 2009 is micro-messaging based collaboration. From where I sit I think it will have a profound effect on [the way we organize](http://lewwwk.com/post75) resources [to get things done](http://lewwwk.com/post62) and will mark a fundamental shift in shape of the organizations and systems of our future.
 
@@ -48,7 +45,3 @@ At the core of all of this is this notion of peer-produced organizations. We're 
 
 There's never been a better time to make change -- and [never been a time where we as global citizens are as much in need](http://lewwwk.com/post156). Giddyup!
 
-::: {.zemanta-pixie style="margin-top: 10px; height: 15px;"}
-[![Reblog this post \[with Zemanta\]](http://img.zemanta.com/reblog_c.png?x-id=46ad7fcf-c948-4847-b5a5-a346894d832b){.zemanta-pixie-img decoding="async" style="border: medium none; float: right;"}](http://reblog.zemanta.com/zemified/46ad7fcf-c948-4847-b5a5-a346894d832b/ "Zemified by Zemanta"){.zemanta-pixie-a}
-:::
-:::::

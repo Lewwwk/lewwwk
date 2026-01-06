@@ -3,12 +3,11 @@ title: "Developers seeking adventure."
 date: 2012-07-04T13:03:02
 draft: false
 categories:
-  - "Uncategorized"
+ - "Uncategorized"
 aliases:
-  - "/post7545/"
+ - "/post7545/"
 ---
 
-::: entry-content
 We're looking for the next adventure at [Igniter](http://igniter.com).
 
 We are a small team of developers, facilitators and entrepreneurs. We build web applications that invite connection, nurture relationship, and build understanding. Our approach is friendly and designed to facilitate flow. We start simply, work quickly and care about what we're crafting.
@@ -21,4 +20,3 @@ In our short time together, we've been fortunate to quietly craft some great sol
 We love working with creative agencies and organizations that are shaping the future. If that sounds like you, we'd love to hear from you.
 
 Drop us a note in the comments or ping me [\@igniter](http://twitter.com/igniter) or michael@igniter.com.
-:::

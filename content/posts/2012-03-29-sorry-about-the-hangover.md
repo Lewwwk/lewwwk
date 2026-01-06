@@ -3,15 +3,12 @@ title: "Sorry about the hangover"
 date: 2012-03-29T21:25:07
 draft: false
 categories:
-  - "Thoughts"
+ - "Thoughts"
 aliases:
-  - "/post7500/"
+ - "/post7500/"
 ---
 
-::::: entry-content
-::: mceTemp
 Hey there,
-:::
 
 Sorry about the hangover.
 
@@ -39,7 +36,3 @@ Us
 - [A Flaw in the Model](http://www.msnbc.msn.com/id/27335454/ns/business-stocks_and_economy/t/greenspan-admits-mistake-helped-crisis/#.T3TQKu1Q6QI)
 - [Better Luck Next Time ](http://edgeperspectives.typepad.com/edge_perspectives/2010/11/2010-shift-index-passion-and-performance.html)
 
-::: {.zemanta-pixie style="margin-top: 10px; height: 15px;"}
-[![Enhanced by Zemanta](http://img.zemanta.com/zemified_a.png?x-id=20b39c30-01b7-4b4f-91a2-2cef1b28fb77){.zemanta-pixie-img decoding="async" style="border: none; float: right;"}](http://www.zemanta.com/ "Enhanced by Zemanta"){.zemanta-pixie-a}
-:::
-:::::

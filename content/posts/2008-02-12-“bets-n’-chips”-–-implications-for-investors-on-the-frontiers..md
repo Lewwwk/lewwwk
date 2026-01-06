@@ -3,19 +3,16 @@ title: "“Bets n’ chips” – Implications for investors on the frontiers."
 date: 2008-02-12T21:58:00
 draft: false
 categories:
-  - "Uncategorized"
+ - "Uncategorized"
 tags:
-  - "frontiers"
+ - "frontiers"
 aliases:
-  - "/post63/"
+ - "/post63/"
 ---
 
-:::: entry-content
-::: {style="float: right; margin-left: 10px; margin-bottom: 10px;"}
-[![](http://farm3.static.flickr.com/2135/2247912561_ec56e3d2f5_m.jpg){decoding="async" style="border: 2px solid rgb(0, 0, 0);"}](http://www.flickr.com/photos/michaellewkowitz/2247912561/ "photo sharing")\
-[ [Venturing on the Frontiers -- A simple guide.](http://www.flickr.com/photos/michaellewkowitz/2247912561/)\
+[![](http://farm3.static.flickr.com/2135/2247912561_ec56e3d2f5_m.jpg){ style="border: 2px solid rgb(0, 0, 0);"}](http://www.flickr.com/photos/michaellewkowitz/2247912561/ "photo sharing")
+[ [Venturing on the Frontiers -- A simple guide.](http://www.flickr.com/photos/michaellewkowitz/2247912561/)
 Originally uploaded by [Michael Lewkowitz](http://www.flickr.com/people/michaellewkowitz/) ]{style="margin-top: 0px;font-size:0;"}
-:::
 
 There seem to be two types of bets that investors make when doing a deal. A bet on the team. A bet on the plan. The closer to the frontiers (early stages and deep change) the greater the emphasis is on the team. And rightly so. We all know that plans don't last on the frontiers.
 
@@ -36,4 +33,3 @@ And what other practices could we employ? Well if one of the biggest chips an in
 [And it means bringing our social chips into the game to make the connections the venture truly needs ([more in a future post]{style="font-style: italic;"}). ]{style="font-weight: bold;"}
 
 Now that's an investment space I'd bet on.
-::::

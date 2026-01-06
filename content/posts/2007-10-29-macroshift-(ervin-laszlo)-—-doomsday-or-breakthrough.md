@@ -3,12 +3,11 @@ title: "Macroshift (Ervin Laszlo) — Doomsday or Breakthrough?"
 date: 2007-10-29T19:06:00
 draft: false
 categories:
-  - "Uncategorized"
+ - "Uncategorized"
 aliases:
-  - "/post42/"
+ - "/post42/"
 ---
 
-::: entry-content
 I'm only through the first two chapters of [Ervin Laszlo](http://en.wikipedia.org/wiki/Ervin_L%C3%A1szl%C3%B3)'s book [Macroshift](http://www.amazon.com/Macroshift-Navigating-Transformation-Sustainable-World/dp/1576751635/ref=pd_bbs_sr_1/002-0269927-3836077?ie=UTF8&s=books&qid=1193681423&sr=8-1), but thought I'd better post these snippets before I get caught-up in the flow of the week.  I came across this through a client who pointed to this as the best description of what their work is responding to.  I couldn't agree more... and know a few others that will feel the same way... and am hoping more people will join those ranks. 
 
 The [Four Phases of a Macroshift](http://igniter.tumblr.com/post/17689481) are the core theory and pretty easy to follow and digest.  They are also applied directly to our current position [here](http://igniter.tumblr.com/post/17694101).
@@ -63,5 +62,4 @@ I highly recommend buying the book -- it's a much easier read that the last book
 
 "It is the flexibility and creativity of the people that creates the subtle but all-important "fluctuation" that decides which of the available evolutionary paths the macroshift will then follow."
 
-Blogged with [Flock](http://www.flock.com/blogged-with-flock "Flock"){rel="noopener noreferrer" target="_new"}
-:::
+Blogged with [Flock](http://www.flock.com/blogged-with-flock "Flock")

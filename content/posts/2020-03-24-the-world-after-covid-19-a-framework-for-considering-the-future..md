@@ -3,18 +3,17 @@ title: "The world after COVID-19: A framework for considering the future."
 date: 2020-03-24T21:56:18
 draft: false
 categories:
-  - "Uncategorized"
+ - "Uncategorized"
 tags:
-  - "covid-19"
-  - "crisis"
-  - "transformation"
+ - "covid-19"
+ - "crisis"
+ - "transformation"
 aliases:
-  - "/post7699/"
+ - "/post7699/"
 ---
 
-::: entry-content
 <figure class="wp-block-image size-large">
-<!-- Image unavailable -->
+<img src="/images/recovered/2020-03-24-covid19-framework.png" alt="COVID-19 Framework for Considering the Future" />
 </figure>
 
 > TLDR: We already see signs for how our world might change, we just can't be sure which changes will stick. There's a wide range of possible futures ahead.
@@ -71,4 +70,3 @@ While it seems a pretty safe bet that an accelerated physical to digital transit
 Personally, I'm now leaning more optimistic in terms of our capacity to deal with this crisis and recover more quickly than our more dire predictions suggest. I expect that there will be significant and permanent shifts that come from this, but also expect a strong retrenchment that limits the advances we might think we can make based on where we are.
 
 More than anything though, I'm seeing a broader range of possible futures than I did a week ago. While I'm no more certain which version will play out, I'm finding it a bit easier to process what's happening and move forward. I hope this offers some of that to others as well.
-:::

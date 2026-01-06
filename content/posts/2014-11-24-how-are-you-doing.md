@@ -3,12 +3,11 @@ title: "How are you doing?"
 date: 2014-11-24T14:21:44
 draft: false
 categories:
-  - "Uncategorized"
+ - "Uncategorized"
 aliases:
-  - "/post7583/"
+ - "/post7583/"
 ---
 
-::: entry-content
 It's a simple question and it's the heart of [Pine](http://pineHQ.com)'s daily check-in. As [we](http://igniter.com)'ve been building Pine over the last six weeks, I've answered it about 120 times. This is my experience.
 
 At the beginning I'd look at the question, not sure where to start. Often I'd quickly tap in a few words. Sometimes those words turned into paragraphs. Sometimes I'd check-in with a simple emoticon.
@@ -24,4 +23,3 @@ Second, the simplicity. I can check in just about anywhere at any time, and I ca
 Third, while it's private, I'm not alone. I can't see what my friends are saying, but I know that they are checking in. It's like we're walking [the Camino trail](http://en.wikipedia.org/wiki/Camino_de_Santiago) together, silently nodding to each other as we discover a little more of ourselves with every step.
 
 In summary, our lives are made up of the experiences we collect every day. In that journey, Pine is my silent partner, helping me pay attention to whatever happens. Founder bias aside, I think that's something we can all benefit from.
-:::

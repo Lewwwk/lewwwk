@@ -3,14 +3,13 @@ title: "A new foundation for distributed collaboration and collective intelligen
 date: 2009-03-23T15:11:30
 draft: false
 categories:
-  - "Thoughts"
+ - "Thoughts"
 aliases:
-  - "/post406/"
+ - "/post406/"
 ---
 
-::: entry-content
 <figure id="attachment_410" class="wp-caption alignright" aria-describedby="caption-attachment-410" style="width: 155px">
-<!-- Image unavailable -->
+<img src="/images/recovered/2009-03-23-threadio.png" alt="Threading Twitter, Weaving the Web." />
 <figcaption aria-hidden="true">Threading Twitter, Weaving the Web.</figcaption>
 </figure>
 
@@ -21,4 +20,3 @@ Twitter has been experiencing [extraordinary growth](http://mashable.com/2009/03
 For those who have followed this blog and our exploration of this concept and the way we can peer-produce organizations it may have looked messy.  In a way it was. It's also been incredibly efficient.  Putting everything out there has attracted great feedback and new collaborators and has resulted in the launch of our core platform [thread.io](http://thread.io).
 
 My hope is that this is just the beginning. Everything in me says we're on to something. What matters though is what you think and what your experiences tell you. We hope you [give it a try](http://thread.io) and [let us know what you think](http://feedback.thread.io).
-:::

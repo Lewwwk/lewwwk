@@ -3,16 +3,15 @@ title: "Making it Epic (alpha edition)"
 date: 2010-12-10T16:28:09
 draft: false
 categories:
-  - "Ventures"
+ - "Ventures"
 tags:
-  - "alpha"
-  - "epic"
-  - "Matt Mullenweg"
+ - "alpha"
+ - "epic"
+ - "Matt Mullenweg"
 aliases:
-  - "/post7406/"
+ - "/post7406/"
 ---
 
-:::: entry-content
 [![](/images/square-id-v1-rgk2iu.png)](/images/square-id-v1-rgk2iu.png)
 
 > "If you're not embarrassed when you ship your first version you waited too long." \~ [Matt Mullenweg](http://ma.tt/2010/11/one-point-oh/)
@@ -31,7 +30,3 @@ Life is too short for bullshit. We don't know where this will go, but we do know
 
 Let's [make it epic](http://epic.io)!
 
-::: {.zemanta-pixie style="margin-top: 10px; height: 15px;"}
-[![Enhanced by Zemanta](http://img.zemanta.com/zemified_a.png?x-id=f3a9f98a-ae25-4eaa-8b39-0ed598e572b8){.zemanta-pixie-img decoding="async" style="border: none; float: right;"}](http://www.zemanta.com/ "Enhanced by Zemanta"){.zemanta-pixie-a}
-:::
-::::

@@ -3,14 +3,13 @@ title: "The influence of open in venturing."
 date: 2008-07-22T16:28:00
 draft: false
 categories:
-  - "Thoughts"
+ - "Thoughts"
 tags:
-  - "openeverything"
+ - "openeverything"
 aliases:
-  - "/post76/"
+ - "/post76/"
 ---
 
-::: entry-content
 So what does 'open' mean for 'venturing' and venturing on 'the frontiers'.
 
 From some prior [definitions](http://lewwwk.com2008/01/definitive-definitions-of-venturing.html), venturing is process of creating and evolving a venture, where a venture is an agreement among people to do things in service of a purpose and according to a set of values. More simply it's about the process of organizing resources (social, financial, and human capital) toward realizing a certain intent.
@@ -30,4 +29,3 @@ Pulling this together -- venturing on the frontiers requires a focus on:
 - systems design
 
 That said, this doesn't mean it's time to throw the baby out with the bathwater. Strategy is still a useful tool, and we are still in the midst of a culture dominated by the conventional mode of organization. What it does mean though is that the compatibility of our underlying organizational culture, values, mindset, and leadership will determine the ability to make the most of convention in context of where we are going.
-:::

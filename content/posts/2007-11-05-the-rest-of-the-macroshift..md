@@ -3,12 +3,11 @@ title: "The rest of the macroshift."
 date: 2007-11-05T15:26:00
 draft: false
 categories:
-  - "Thoughts"
+ - "Thoughts"
 aliases:
-  - "/post43/"
+ - "/post43/"
 ---
 
-::: entry-content
 Continuing on my [previous macroshift post](http://lewwwk.com2007/10/macroshift-ervin-laszlo-doomsday-or.html), here are my reflections from the remainder of [Ervin Laszlo](http://en.wikipedia.org/wiki/Ervin_L%C3%A1szl%C3%B3)'s book [Macroshift](http://www.amazon.com/Macroshift-Navigating-Transformation-Sustainable-World/dp/1576751635/ref=pd_bbs_sr_1/002-0269927-3836077?ie=UTF8&s=books&qid=1193681423&sr=8-1){bluekey="" bluelink="yes"}.
 
 For me the rest of the book was a lighter read with some simple observations relating to the mindset shift that is called for and clearly already underway. Here are a couple of framing quotes to set the stage:
@@ -74,5 +73,4 @@ And to cap off this post, I'll end with one of the final quotes that described t
 
 "To live with and not against each other, to live in a way that does not rob the chances of others to live as well, to care what is happening to the poor and the powerless as well as to nature calls for feeling and intuition; for sensing the situation in which we find ourselves, apprehending its manifold aspects and creatively responding to it." There's a lot in that one as I reread it.
 
-Blogged with [Flock](http://www.flock.com/blogged-with-flock "Flock"){rel="noopener noreferrer" target="_new"}
-:::
+Blogged with [Flock](http://www.flock.com/blogged-with-flock "Flock")
