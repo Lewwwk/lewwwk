@@ -1,20 +1,16 @@
 {{- define "main" }}
 
 <article class="post-single page-about">
-  <header class="post-header">
-    {{ partial "breadcrumbs.html" . }}
-    <h1 class="post-title entry-hint-parent">
-      {{ .Title }}
-    </h1>
-    {{- if not (.Param "hideMeta") }}
-    <div class="post-meta">
-      {{- partial "post_meta.html" . -}}
+  <header class="about-header">
+    <div class="about-avatar-wrapper">
+      <img src="/images/wp-uploads/2022/05/Lewwwk.png" alt="Michael Lewkowitz" class="about-avatar" />
     </div>
-    {{- end }}
+    <h1 class="about-title">{{ .Title }}</h1>
+    <p class="about-tagline">More possibilian. Less dual. For a better future.</p>
   </header>
 
   {{- if .Content }}
-  <div class="post-content no-dropcap">
+  <div class="post-content about-content no-dropcap">
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}

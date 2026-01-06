@@ -1117,3 +1117,119 @@ button:focus-visible {
     font-size: 1rem;
   }
 }
+
+/* ============================================
+   ABOUT PAGE
+   ============================================ */
+
+.page-about {
+  margin-top: 0;
+}
+
+.about-header {
+  text-align: center;
+  padding: 3rem 0 2.5rem;
+  margin-bottom: 2.5rem;
+  border-bottom: 2px solid var(--border);
+  position: relative;
+}
+
+.about-header::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80px;
+  height: 4px;
+  background: linear-gradient(90deg, var(--accent), var(--accent-light));
+  border-radius: 2px;
+}
+
+.about-avatar-wrapper {
+  margin-bottom: 1.5rem;
+}
+
+.about-avatar {
+  width: 180px;
+  height: 180px;
+  border-radius: 16px;
+  border: 3px solid var(--border);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease;
+  image-rendering: pixelated; /* Preserve pixel art crispness */
+  image-rendering: crisp-edges;
+}
+
+.about-avatar:hover {
+  transform: scale(1.03) rotate(1deg);
+  border-color: var(--accent);
+  box-shadow: 0 12px 40px rgba(217, 119, 6, 0.15);
+}
+
+.about-title {
+  font-size: 2.5rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.5rem;
+  color: var(--primary);
+}
+
+.about-tagline {
+  font-family: var(--font-body);
+  font-size: 1.15rem;
+  font-style: italic;
+  color: var(--secondary);
+  margin: 0;
+}
+
+.about-content {
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+.about-content p {
+  margin-bottom: 1.5rem;
+}
+
+.about-content a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease;
+}
+
+.about-content a:hover {
+  border-bottom-color: var(--accent);
+}
+
+/* About page social links styling */
+.about-content p:last-child a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+/* Mobile about page */
+@media (max-width: 768px) {
+  .about-header {
+    padding: 2rem 0 1.5rem;
+  }
+
+  .about-avatar {
+    width: 140px;
+    height: 140px;
+  }
+
+  .about-title {
+    font-size: 2rem;
+  }
+
+  .about-tagline {
+    font-size: 1rem;
+  }
+
+  .about-content {
+    font-size: 1rem;
+  }
+}

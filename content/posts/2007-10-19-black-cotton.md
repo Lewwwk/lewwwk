@@ -9,3 +9,5 @@ aliases:
 ---
 
 I've long know a lot about the coffee industry and had heard snippets of what's going on in cotton too... but this sure is a wakeup call.
+
+{{< youtube 3n39T35Ia_4 >}}
