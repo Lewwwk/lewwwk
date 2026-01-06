@@ -1148,6 +1148,8 @@ button:focus-visible {
 
 .about-avatar-wrapper {
   margin-bottom: 1.5rem;
+  display: flex;
+  justify-content: center;
 }
 
 .about-avatar {
@@ -1159,6 +1161,7 @@ button:focus-visible {
   transition: all 0.3s ease;
   image-rendering: pixelated; /* Preserve pixel art crispness */
   image-rendering: crisp-edges;
+  display: block;
 }
 
 .about-avatar:hover {
