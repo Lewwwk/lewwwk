@@ -2,8 +2,11 @@
 title: "Zero"
 draft: false
 url: "/zero/"
-layout: "about"
+layout: "single"
 robotsNoIndex: true
+hideMeta: true
+ShowPostNavLinks: false
+disableShare: true
 ---
 
 <div style="display:flex;justify-content:center;margin:2rem 0">
