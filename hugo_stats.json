@@ -7,6 +7,7 @@
       "body",
       "br",
       "button",
+      "canvas",
       "circle",
       "dd",
       "del",
@@ -149,7 +150,8 @@
       "top-link",
       "twitter-feed-socap08",
       "why-could-the-future-be-different",
-      "why-is-this-so-disruptive"
+      "why-is-this-so-disruptive",
+      "zero-avatar"
     ]
   }
 }
