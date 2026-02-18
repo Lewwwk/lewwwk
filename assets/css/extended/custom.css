@@ -14,7 +14,7 @@
   --secondary: #555555;
   --tertiary: #f8f8f8;
   --content: #1a1a1a;
-  --border: #e0e0e0;
+  --border: #d9e5e3;
   --code-bg: #f5f5f5;
 
   /* Teal accent - layered from readable to pastel */
@@ -44,7 +44,7 @@
   --secondary: #9a9a9a;
   --tertiary: #1a1a1a;
   --content: #e8e8e8;
-  --border: #2d2d2d;
+  --border: #2a3331;
   --code-bg: #1a1a1a;
   --accent: #2dd4bf;
   --accent-light: #99f6e4;
@@ -98,7 +98,8 @@ h1, h2, h3, h4, h5, h6 {
 .post-header {
   margin-bottom: 3rem;
   padding-bottom: 1.5rem;
-  border-bottom: 1px solid var(--border);
+  border-bottom: 1px solid;
+  border-image: linear-gradient(to right, transparent, var(--border) 10%, var(--border) 90%, transparent) 1;
 }
 
 .post-header .post-meta {
@@ -308,7 +309,8 @@ nav a:hover::after {
 
 /* Separator before post list */
 .first-entry + .post-entry {
-  border-top: 1px solid var(--border);
+  border-top: 1px solid;
+  border-image: linear-gradient(to right, transparent, var(--border) 15%, var(--border) 85%, transparent) 1;
   padding-top: 3rem;
 }
 
@@ -322,13 +324,15 @@ nav a:hover::after {
   margin-bottom: 0;
   padding: 2.5rem 0;
   background: transparent;
-  border-bottom: 1px solid var(--border);
+  border-bottom: 1px solid;
+  border-image: linear-gradient(to right, transparent, var(--border) 15%, var(--border) 85%, transparent) 1;
   transition: all 0.2s ease;
   position: relative;
 }
 
 .post-entry:last-child {
   border-bottom: none;
+  border-image: none;
 }
 
 /* Accent line on hover */
@@ -441,7 +445,8 @@ pre code {
    ============================================ */
 
 .footer {
-  border-top: 1px solid var(--border);
+  border-top: 1px solid;
+  border-image: linear-gradient(to right, transparent, var(--border) 15%, var(--border) 85%, transparent) 1;
   padding: 3rem 0;
   margin-top: 4rem;
   color: var(--secondary);
@@ -512,27 +517,23 @@ pre code {
 .pagination {
   margin-top: 4rem;
   padding-top: 2rem;
-  border-top: 1px solid var(--border);
+  border-top: 1px solid;
+  border-image: linear-gradient(to right, transparent, var(--border) 15%, var(--border) 85%, transparent) 1;
 }
 
-.page-item a {
-  color: var(--secondary);
-  padding: 0.75rem 1.5rem;
-  border-radius: 6px;
-  font-weight: 600;
+.pagination a {
+  color: var(--theme);
   font-family: var(--font-heading);
-  font-size: 0.9rem;
+  font-weight: 600;
+  font-size: 0.85rem;
   text-transform: uppercase;
-  letter-spacing: 0.03em;
-  border: 1px solid var(--border);
+  letter-spacing: 0.04em;
   transition: all 0.25s ease;
 }
 
-.page-item a:hover {
+.pagination a:hover {
   color: var(--theme);
-  background: var(--primary);
-  border-color: var(--primary);
-  text-decoration: none;
+  background: var(--accent);
   transform: translateY(-1px);
 }
 
@@ -634,8 +635,7 @@ button:focus-visible {
     padding-top: 1.5rem;
   }
 
-  .page-item a {
-    padding: 0.6rem 1.25rem;
+  .pagination a {
     font-size: 0.8rem;
   }
 }
@@ -989,7 +989,8 @@ button:focus-visible {
   gap: 1.5rem;
   margin-top: 4rem;
   padding-top: 2rem;
-  border-top: 2px solid var(--border);
+  border-top: 1px solid;
+  border-image: linear-gradient(to right, transparent, var(--border) 15%, var(--border) 85%, transparent) 1;
   background: transparent;
   border-radius: 0;
   border-left: none;
