@@ -3,7 +3,7 @@ title: "Zero"
 draft: false
 url: "/zero/"
 layout: "zero"
-robotsNoIndex: true
+robotsNoIndex: false
 ---
 
 Built by [Michael Lewkowitz](https://lewwwk.com/about/).
