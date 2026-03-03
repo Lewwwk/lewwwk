@@ -33,4 +33,4 @@ Zero uses the Anthropic API (Claude) for language processing. Prompts sent to th
 
 ## Contact
 
-For questions about this policy: michael@lewkowitz.com
+For questions about this policy: admin@igniter.com

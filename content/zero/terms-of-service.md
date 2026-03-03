@@ -22,4 +22,4 @@ The owner and developer of Zero shall not be liable for any damages arising from
 
 ## Contact
 
-For questions: michael@lewkowitz.com
+For questions: admin@igniter.com
