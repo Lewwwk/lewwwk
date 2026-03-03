@@ -7,3 +7,5 @@ robotsNoIndex: true
 ---
 
 Built by [Michael Lewkowitz](https://lewwwk.com/about/).
+
+[Privacy Policy](/zero/privacy-policy/) · [Terms of Service](/zero/terms-of-service/)
