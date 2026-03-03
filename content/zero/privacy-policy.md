@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-description: "Zero — Personal Agent"
+description: "[Zero](/zero/) — Personal Agent"
 date: 2026-03-03
 layout: "document"
 url: "/zero/privacy-policy/"

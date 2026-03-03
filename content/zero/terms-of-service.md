@@ -1,6 +1,6 @@
 ---
 title: "Terms of Service"
-description: "Zero — Personal Agent"
+description: "[Zero](/zero/) — Personal Agent"
 date: 2026-03-03
 layout: "document"
 url: "/zero/terms-of-service/"
