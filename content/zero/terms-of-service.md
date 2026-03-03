@@ -1,12 +1,11 @@
 ---
-title: "Terms of Service — Zero"
-draft: false
+title: "Terms of Service"
+description: "Zero — Personal Agent"
+date: 2026-03-03
+layout: "document"
 url: "/zero/terms-of-service/"
 robotsNoIndex: true
 ---
-
-**Zero — Personal Agent**
-Last updated: March 3, 2026
 
 ## Usage
 
